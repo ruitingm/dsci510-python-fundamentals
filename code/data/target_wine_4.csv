@@ -1,0 +1,241 @@
+tcin,price,Region,Alcohol Percentage,Wine varietals,rating,taste,quality,value
+81826932,52.99,"Napa Valley, California",15,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+47134918,15.99,Mendoza,14.2,Malbec,0.0,0.0,0.0,0.0
+81642206,174.99,"Rutherford, California",14,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+47132556,15.99,California,13.9,Pinot Noir,0.0,0.0,0.0,0.0
+47136040,8.99,California,13.9,Merlot,0.0,0.0,0.0,0.0
+47134497,10.99,"Sonoma, California",13.5,Pinot Noir,0.0,0.0,0.0,0.0
+49097316,73.99,"Red Mountain, Washington",14.3,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+81642299,21.99,"Paso Robles, California",16,Red Blend,5.0,5.0,5.0,5.0
+87247376,33.99,"Napa, California",15,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+51771544,16.99,France,14.5,Red Blend,5.0,0.0,0.0,0.0
+52051058,9.99,Australia,13.5,Red Blend,5.0,5.0,5.0,4.75
+47130217,13.99,"Sonoma, California",13.5,Merlot,0.0,0.0,0.0,0.0
+47131874,27.99,"Paso Robles, California",13.5,Red Blend,0.0,0.0,0.0,0.0
+50428240,22.99,"Los Carneros, California",12,Pinot Noir,0.0,0.0,0.0,0.0
+47133330,10.99,California,12,Red Blend,0.0,0.0,0.0,0.0
+17125357,8.99,California,13.5,Red Blend,4.7,0.0,0.0,0.0
+81786052,28.99,"Paso Robles, California",15,Red Blend,0.0,0.0,0.0,0.0
+81826930,23.99,"Paso Robles, California",14,Red Blend,0.0,0.0,0.0,0.0
+47133059,16.99,California,13.5,Red Blend,0.0,0.0,0.0,0.0
+50428170,19.99,"Alexander Valley, California",12,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+87573552,17.00,California,15,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+81786053,26.99,"Paso Robles, California",15,Red Blend,0.0,0.0,0.0,0.0
+47131167,6.99,California,13.5,Merlot,0.0,0.0,0.0,0.0
+87710096,27.99,United States,15,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+83641654,79.99,California,15,Cabernet Sauvignon,0.0,0.0,0.0,0.0
+13462172,17.99,California,13.5,Pinot Noir,4.08,3.43,3.14,4.0
+13463195,10.99,Australia,13,Merlot,0.0,0.0,0.0,0.0
+13463198,10.99,Australia,13.5,Syrah/Shiraz,0.0,0.0,0.0,0.0
+13300261,10.99,California,13.0,Cabernet Sauvignon,4.39,0.0,0.0,0.0
+51743844,9.99,California,10.5,Red Blend,4.42,0.0,0.0,0.0
+86703058,9.99,United States,13.8,Red Blend,0.0,0.0,0.0,0.0
+39599517,6.99,California,13.5,Zinfandel,2.9,0.0,0.0,0.0
+83480881,5.99,Italy,5,Brachetto D'Acqui,4.32,5.0,5.0,5.0
+13461946,17.99,California,13.5,Merlot,4.17,4.5,5.0,5.0
+14765586,9.99,California,12.5,Red Blend,5.0,0.0,0.0,0.0
+86517228,6.99,California,5,Brachetto D'Acqui,4.78,0.0,0.0,0.0
+79329832,8.99,California,13.8,Red Blend,4.5,4.0,5.0,5.0
+13300816,9.99,California,12.5,Pinot Noir,4.39,0.0,0.0,0.0
+54034994,19.99,Italy,5,Red Blend,4.8,5.0,5.0,4.0
+14779054,4.99,California,13.5,Pinot Noir,3.56,5.0,4.5,5.0
+14779057,4.99,California,13.5,Red Blend,4.07,3.14,3.17,4.0
+14766148,17.99,Mendoza,13.0,Malbec,4.38,3.33,3.33,5.0
+54659203,10.99,California,14,Red Blend,4.41,0.0,0.0,0.0
+13463197,10.99,Australia,13.5,Syrah/Shiraz,0.0,0.0,0.0,0.0
+13300813,10.99,California,13.0,Merlot,4.67,0.0,0.0,0.0
+79346741,7.99,Italy,7,Red Blend,4.5,5.0,5.0,5.0
+54659062,10.99,Italy,11,Prosecco,4.47,4.25,4.45,4.82
+53209245,12.99,Italy,11,Multiple Varietals,4.76,5.0,5.0,5.0
+53209245,12.99,Italy,11,Multiple Varietals,4.76,5.0,5.0,5.0
+47981452,9.99,Italy,11.0,Prosecco,4.43,5.0,5.0,5.0
+16416115,12.99,Italy,11.5,Prosecco,4.8,5.0,5.0,5.0
+14768145,12.99,Italy,11,Prosecco,4.71,5.0,5.0,5.0
+15505027,9.99,California,9.5,Prosecco,4.33,0.0,0.0,0.0
+14767728,9.99,California,11.8,Champagne,4.42,5.0,5.0,5.0
+47131343,12.99,Oregon,13.5,Pinot Gris,4.71,0.0,0.0,0.0
+81642242,14.99,California,13,Sauvignon Blanc,0.0,0.0,0.0,0.0
+85645751,10.99,United States,13.5,Pinot Gris,0.0,0.0,0.0,0.0
+54231661,13.99,California,13,Pinot Grigio,0.0,0.0,0.0,0.0
+81785843,12.99,"Monterey, California",13,Riesling,5.0,0.0,0.0,0.0
+52646878,11.99,Marlborough,13.5,Sauvignon Blanc,5.0,5.0,5.0,5.0
+47135952,6.99,Great Lakes,13.9,White Blend,5.0,0.0,0.0,0.0
+81902433,9.99,California,8,Chardonnay,0.0,0.0,0.0,0.0
+81894324,14.99,Marlborough,13,Sauvignon Blanc,5.0,0.0,0.0,0.0
+47132280,12.99,"Monterey, California",13.5,Chardonnay,3.0,0.0,0.0,0.0
+47129470,6.99,Midwestern United States,10.6,White Blend,5.0,0.0,0.0,0.0
+47134263,11.99,Southwestern United States,10.0,White Moscato,4.8,5.0,5.0,5.0
+13359277,11.99,California,13.5,Pinot Grigio,5.0,0.0,0.0,0.0
+50451746,23.99,"Napa Valley, California",12,Sauvignon Blanc,0.0,0.0,0.0,0.0
+47132870,9.99,East Coast United States,11.0,White Blend,4.0,5.0,4.0,4.0
+52284996,18.99,Trentino Alto-Adige,12.5,Pinot Grigio,0.0,0.0,0.0,0.0
+85333452,12.99,California,13.5,Chardonnay,4.31,0.0,0.0,0.0
+83473571,27.99,"Sonoma Coast, California",14.2,Chardonnay,0.0,0.0,0.0,0.0
+47132435,11.99,Italy,12.0,Pinot Grigio,4.5,0.0,0.0,0.0
+47129063,16.99,East Coast United States,13.0,Chardonnay,5.0,5.0,5.0,4.0
+52255062,11.99,Great Lakes,12.5,Pinot Grigio,0.0,0.0,0.0,0.0
+84738685,5.99,United States,6.5,White Moscato,5.0,5.0,5.0,5.0
+47410156,9.99,Italy,13.2,White Moscato,5.0,5.0,5.0,5.0
+54670468,14.99,California,14,Chardonnay,4.26,4.8,5.0,4.8
+50364263,12.99,California,13,Sauvignon Blanc,4.0,5.0,5.0,5.0
+13359464,8.99,California,13.5,Chardonnay,4.51,0.0,0.0,0.0
+13359277,11.99,California,13.5,Pinot Grigio,5.0,0.0,0.0,0.0
+49127132,12.99,Marlborough,11.0,Sauvignon Blanc,0.0,0.0,0.0,0.0
+47134369,12.99,Washington,12,Riesling,4.67,5.0,5.0,5.0
+83443223,19.99,California,14,Chardonnay,0.0,0.0,0.0,0.0
+47127635,19.99,California,13.5,Sauvignon Blanc,4.53,5.0,5.0,5.0
+14775930,11.99,Piedmont,5.5,White Moscato,5.0,4.8,5.0,5.0
+53211429,29.99,California,15.76,Sauvignon Blanc,1.0,1.0,1.0,1.0
+47129450,11.99,Midwestern United States,10,White Blend,5.0,0.0,0.0,0.0
+47133481,13.99,"Sonoma, California",14,Sauvignon Blanc,4.33,0.0,0.0,0.0
+81785990,19.99,United States,12,White Blend,0.0,0.0,0.0,0.0
+79182390,12.99,Marlborough,13,Sauvignon Blanc,4.67,4.67,4.78,4.78
+81593992,15.99,"Columbia Valley, Washington",14,Chardonnay,5.0,5.0,5.0,5.0
+83473571,27.99,"Sonoma Coast, California",14.2,Chardonnay,0.0,0.0,0.0,0.0
+47129102,13.99,"Russian River Valley, California",12.0,Chardonnay,5.0,0.0,0.0,0.0
+17295374,13.99,"Napa Valley, California",12.5,Chenin Blanc,5.0,5.0,5.0,5.0
+47134262,11.99,California,13.5,Sauvignon Blanc,0.0,0.0,0.0,0.0
+47127635,19.99,California,13.5,Sauvignon Blanc,4.53,5.0,5.0,5.0
+47131354,12.99,East Coast United States,13.9,Pinot Grigio,4.75,0.0,0.0,0.0
+81867678,6.99,United States,6.5,White Moscato,4.07,4.29,4.5,5.0
+47133192,11.99,"Monterey, California",11,White Blend,4.75,5.0,5.0,5.0
+47828007,8.99,East Coast United States,10,Muscadine,4.71,0.0,0.0,0.0
+48627183,10.99,Midwestern United States,13.2,Pinot Grigio,0.0,0.0,0.0,0.0
+51488294,8.99,Midwestern United States,8.3,Fruit Varietal,4.71,5.0,5.0,5.0
+47129446,9.99,"Sonoma, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+54232783,16.99,Marlborough,13,Sauvignon Blanc,4.89,5.0,5.0,5.0
+14767726,13.99,California,13.5,Chardonnay,5.0,5.0,5.0,4.0
+52117059,14.99,France,13,Pinot Gris,5.0,5.0,5.0,
+47127561,11.99,Midwestern United States,10.5,White Blend,5.0,0.0,0.0,0.0
+84724215,9.99,Midwestern United States,7,White Blend,4.33,5.0,5.0,5.0
+84715270,12.99,Australia,13.8,Chardonnay,4.79,5.0,5.0,5.0
+81785989,19.99,"Napa Valley, California",14.5,Sauvignon Blanc,0.0,0.0,0.0,0.0
+47131174,8.99,Midwestern United States,12.5,Riesling,5.0,0.0,0.0,0.0
+83439720,14.99,United States,11,White Blend,0.0,0.0,0.0,0.0
+81656327,11.99,California,8.5,Pinot Grigio,2.5,4.0,4.0,5.0
+85636589,12.99,New Zealand,9,Sauvignon Blanc,0.0,0.0,0.0,0.0
+13403802,15.99,"Santa Maria Valley, California",14.5,Chardonnay,4.68,0.0,0.0,0.0
+13359286,11.99,California,14.5,Chardonnay,5.0,0.0,0.0,0.0
+47128517,9.99,Midwestern United States,11,White Blend,5.0,5.0,4.0,5.0
+85645751,10.99,United States,13.5,Pinot Gris,0.0,0.0,0.0,0.0
+47129385,9.99,"Columbia Valley, Washington",13.5,Chardonnay,4.38,0.0,0.0,0.0
+47127722,13.99,Great Lakes,13.0,Riesling,5.0,5.0,5.0,5.0
+53586470,12.99,Great Lakes,11.5,Riesling,5.0,0.0,0.0,0.0
+82000930,16.99,Oregon,13,Chardonnay,0.0,0.0,0.0,0.0
+87710095,19.99,United States,13,Chenin Blanc,0.0,0.0,0.0,0.0
+47128519,20.99,California,14.3,Chardonnay,5.0,5.0,5.0,5.0
+47127561,11.99,Midwestern United States,10.5,White Blend,5.0,0.0,0.0,0.0
+17295374,13.99,"Napa Valley, California",12.5,Chenin Blanc,5.0,5.0,5.0,5.0
+47133007,12.99,East Coast United States,10.4,Riesling,5.0,0.0,0.0,0.0
+13359276,8.99,"Columbia Valley, Washington",11.8,Riesling,5.0,0.0,0.0,0.0
+14757393,5.99,California,0,Chardonnay,0.0,0.0,0.0,0.0
+47133308,12.99,Oregon,14.1,Pinot Grigio,0.0,0.0,0.0,0.0
+53194881,10.99,California,13.5,Sauvignon Blanc,3.67,3.0,3.0,3.0
+13359277,11.99,California,13.5,Pinot Grigio,5.0,0.0,0.0,0.0
+47977536,9.99,California,13.5,Chardonnay,4.9,4.89,4.89,5.0
+47131354,12.99,East Coast United States,13.9,Pinot Grigio,4.75,0.0,0.0,0.0
+51774202,13.99,California,13.5,Pinot Gris,5.0,5.0,5.0,5.0
+17125359,11.99,California,13.5,Sauvignon Blanc,4.62,4.7,4.7,4.8
+50364263,12.99,California,13,Sauvignon Blanc,4.0,5.0,5.0,5.0
+47533381,15.99,"Monterey, California",13.5,Pinot Gris,5.0,0.0,0.0,0.0
+13392257,7.99,California,12.0,Gewurztraminer,4.8,4.4,4.6,4.6
+47129468,12.99,"Livermore Valley, California",13.5,Chardonnay,5.0,5.0,5.0,5.0
+53211429,29.99,California,15.76,Sauvignon Blanc,1.0,1.0,1.0,1.0
+52117059,14.99,France,13,Pinot Gris,5.0,5.0,5.0,
+47218024,12.99,Washington,13.6,Riesling,0.0,0.0,0.0,0.0
+80883461,8.99,California,13.5,Chardonnay,4.54,0.0,0.0,0.0
+85404597,12.99,"North Coast, California",13,Sauvignon Blanc,4.5,5.0,5.0,5.0
+81785988,19.99,"Napa Valley, California",14.5,Chardonnay,0.0,0.0,0.0,0.0
+51752442,17.99,"Russian River Valley, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+47133649,9.99,California,13.0,Sauvignon Blanc,0.0,0.0,0.0,0.0
+47129399,9.99,South Africa,9.0,White Blend,5.0,5.0,5.0,5.0
+13728559,10.99,California,13.5,Chardonnay,0.0,0.0,0.0,0.0
+47128507,6.99,Australia,12.5,Chardonnay,0.0,0.0,0.0,0.0
+52525393,13.99,California,14.5,Chardonnay,4.53,5.0,5.0,5.0
+47133071,7.99,"Central Coast, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+17295374,13.99,"Napa Valley, California",12.5,Chenin Blanc,5.0,5.0,5.0,5.0
+48627183,10.99,Midwestern United States,13.2,Pinot Grigio,0.0,0.0,0.0,0.0
+16631121,16.99,California,13.9,Chardonnay,4.0,0.0,0.0,0.0
+47987733,14.99,California,13.9,Sauvignon Blanc,0.0,0.0,0.0,0.0
+47134352,10.99,"Central Coast, California",13.5,Chardonnay,4.33,0.0,0.0,0.0
+47127635,19.99,California,13.5,Sauvignon Blanc,4.53,5.0,5.0,5.0
+47129096,11.99,Midwestern United States,10.5,Riesling,5.0,5.0,5.0,5.0
+47132530,7.99,Midwestern United States,10,White Blend,5.0,5.0,5.0,5.0
+47130104,18.99,Oregon,13.0,Pinot Gris,0.0,0.0,0.0,0.0
+47129470,6.99,Midwestern United States,10.6,White Blend,5.0,0.0,0.0,0.0
+49127132,12.99,Marlborough,11.0,Sauvignon Blanc,0.0,0.0,0.0,0.0
+47131171,11.99,"Columbia Valley, Washington",13.75,Chardonnay,0.0,0.0,0.0,0.0
+47136029,10.99,Germany,8.5,Riesling,5.0,5.0,5.0,5.0
+54662550,10.99,Australia,12,Sauvignon Blanc,5.0,0.0,0.0,0.0
+51759025,18.99,"Sonoma, California",13.9,Chardonnay,4.8,5.0,5.0,5.0
+53211429,29.99,California,15.76,Sauvignon Blanc,1.0,1.0,1.0,1.0
+47134713,9.99,Washington,8,Riesling,5.0,5.0,5.0,5.0
+51752636,6.99,California,12,Pinot Grigio,4.41,0.0,0.0,0.0
+13359289,9.99,"Monterey, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+13403803,13.99,California,13.5,Sauvignon Blanc,4.6,0.0,0.0,0.0
+49127131,10.99,Italy,11.5,Pinot Grigio,3.5,0.0,0.0,0.0
+17125359,11.99,California,13.5,Sauvignon Blanc,4.62,4.7,4.7,4.8
+14766556,4.99,California,4.0,White Moscato,0.0,0.0,0.0,0.0
+80279646,7.99,California,13,Pinot Grigio,3.79,3.55,3.73,4.0
+81785851,16.99,"Arroyo Seco, California",13.5,Sauvignon Blanc,0.0,0.0,0.0,0.0
+51774038,30.99,"Napa Valley, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+14900149,9.99,California,13.5,Pinot Grigio,0.0,0.0,0.0,0.0
+47127554,7.99,"Monterey, California",12,Riesling,0.0,0.0,0.0,0.0
+47827288,5.99,California,12.0,Pinot Grigio,0.0,0.0,0.0,0.0
+47134350,16.99,"Napa Valley, California",13.5,Sauvignon Blanc,4.0,0.0,0.0,0.0
+81583895,39.99,California,14.5,Chardonnay,4.46,0.0,0.0,0.0
+81867678,6.99,United States,6.5,White Moscato,4.07,4.29,4.5,5.0
+13248612,9.99,California,11,White Moscato,4.23,4.63,4.38,4.33
+47410156,9.99,Italy,13.2,White Moscato,5.0,5.0,5.0,5.0
+53239658,13.99,Italy,7.5,White Moscato,4.68,4.43,4.43,4.29
+48326439,15.99,Oregon,13.5,Pinot Gris,0.0,0.0,0.0,0.0
+52642844,39.99,"Napa Valley, California",14.1,Chardonnay,0.0,0.0,0.0,0.0
+83445600,16.99,United States,14,Viognier,0.0,0.0,0.0,0.0
+81656327,11.99,California,8.5,Pinot Grigio,2.5,4.0,4.0,5.0
+81856383,16.99,"Monterey, California",14.5,Chardonnay,0.0,0.0,0.0,0.0
+47218025,7.99,Washington,13.6,Pinot Gris,4.94,0.0,0.0,0.0
+81826937,7.99,Italy,12,Pinot Grigio,0.0,0.0,0.0,0.0
+47133192,11.99,"Monterey, California",11,White Blend,4.75,5.0,5.0,5.0
+81581836,12.99,East Coast United States,8,White Moscato,5.0,0.0,0.0,0.0
+47131354,12.99,East Coast United States,13.9,Pinot Grigio,4.75,0.0,0.0,0.0
+16631121,16.99,California,13.9,Chardonnay,4.0,0.0,0.0,0.0
+82002488,11.99,Great Lakes,13,White Blend,0.0,0.0,0.0,0.0
+83727488,25.99,"Russian River Valley, California",14.1,Chardonnay,0.0,0.0,0.0,0.0
+47131343,12.99,Oregon,13.5,Pinot Gris,4.71,0.0,0.0,0.0
+51770629,12.99,California,13.9,Chardonnay,1.0,1.0,1.0,1.0
+81894332,12.99,"Napa Valley, California",14,Pinot Gris,0.0,0.0,0.0,0.0
+13359289,9.99,"Monterey, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+52557598,8.99,California,12.5,Sauvignon Blanc,4.17,5.0,5.0,4.0
+47134533,31.99,Marlborough,13.5,Sauvignon Blanc,5.0,5.0,5.0,5.0
+51774038,30.99,"Napa Valley, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+47132530,7.99,Midwestern United States,10,White Blend,5.0,5.0,5.0,5.0
+47133273,10.99,"River Junction, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+47134282,10.99,Midwestern United States,11.9,White Moscato,4.75,3.0,3.0,4.0
+48630273,28.99,"Napa Valley, California",13.5,Sauvignon Blanc,0.0,0.0,0.0,0.0
+87573550,17.00,California,13,Pinot Grigio,5.0,5.0,5.0,5.0
+50451746,23.99,"Napa Valley, California",12,Sauvignon Blanc,0.0,0.0,0.0,0.0
+81785851,16.99,"Arroyo Seco, California",13.5,Sauvignon Blanc,0.0,0.0,0.0,0.0
+13359289,9.99,"Monterey, California",13.5,Chardonnay,0.0,0.0,0.0,0.0
+54647906,32.99,"Napa Valley, California",14,Chardonnay,0.0,0.0,0.0,0.0
+83439720,14.99,United States,11,White Blend,0.0,0.0,0.0,0.0
+47132540,12.99,California,13,Chardonnay,0.0,0.0,0.0,0.0
+47130104,18.99,Oregon,13.0,Pinot Gris,0.0,0.0,0.0,0.0
+47131343,12.99,Oregon,13.5,Pinot Gris,4.71,0.0,0.0,0.0
+13359288,14.99,California,13.5,Chardonnay,4.83,0.0,0.0,0.0
+47133189,15.99,"Arroyo Seco, California",13.5,Chardonnay,5.0,0.0,0.0,0.0
+53844046,14.99,California,14.5,Chardonnay,5.0,0.0,0.0,0.0
+52117059,14.99,France,13,Pinot Gris,5.0,5.0,5.0,
+83614909,11.99,"Columbia Valley, Oregon",12,Viognier,0.0,0.0,0.0,0.0
+82002488,11.99,Great Lakes,13,White Blend,0.0,0.0,0.0,0.0
+82000930,16.99,Oregon,13,Chardonnay,0.0,0.0,0.0,0.0
+81785990,19.99,United States,12,White Blend,0.0,0.0,0.0,0.0
+84724215,9.99,Midwestern United States,7,White Blend,4.33,5.0,5.0,5.0
+81826937,7.99,Italy,12,Pinot Grigio,0.0,0.0,0.0,0.0
+47134634,18.99,"Sonoma, California",13.5,Sauvignon Blanc,4.5,0.0,0.0,0.0
+53192978,11.99,Italy,12.5,Pinot Grigio,5.0,5.0,5.0,5.0
+87710219,19.99,Oregon,12.5,Chardonnay,0.0,0.0,0.0,0.0
+83445600,16.99,United States,14,Viognier,0.0,0.0,0.0,0.0
+79722930,19.99,"Clarksburg, California",14.5,Chardonnay,4.5,0.0,0.0,0.0
+13359273,8.99,California,13,Pinot Grigio,4.52,0.0,0.0,0.0
+81894332,12.99,"Napa Valley, California",14,Pinot Gris,0.0,0.0,0.0,0.0
+54232783,16.99,Marlborough,13,Sauvignon Blanc,4.89,5.0,5.0,5.0

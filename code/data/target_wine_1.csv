@@ -1,0 +1,241 @@
+tcin,price,Region,Alcohol Percentage,Wine varietals,rating,taste,quality,value
+52525409,5.00,California,13.5,Cabernet Sauvignon,4.34,3.79,3.97,4.47
+16194978,8.99,California,13.5,Red Blend,4.67,5.0,5.0,5.0
+14778671,13.99,California,13.5,Cabernet Sauvignon,4.63,4.11,4.33,4.44
+79329740,19.99,California,15.5,Cabernet Sauvignon,4.78,5.0,5.0,5.0
+13299910,6.49,California,11.5,Riesling,4.62,4.83,4.67,4.83
+79182397,9.99,California,15,Cabernet Sauvignon,4.73,4.29,4.71,5.0
+47827287,10.99,Italy,5,Pink Moscato,4.73,4.43,4.43,4.86
+16293119,9.99,California,13.0,Red Blend,4.48,4.0,3.75,4.0
+52525405,5.00,California,13.5,Red Blend,4.23,4.02,4.05,4.55
+52525401,5.00,California,10.0,White Moscato,4.52,4.34,4.37,4.57
+52525404,5.00,California,13.0,Pinot Grigio,4.27,3.87,4.03,4.38
+54249204,5.00,California,13.5,Sauvignon Blanc,4.22,3.45,3.5,4.09
+39599515,8.99,California,13.5,Red Blend,4.7,4.33,4.14,5.0
+47987121,13.99,California,13.5,Red Blend,4.61,4.75,4.5,4.5
+47537031,11.99,Italy,7.0,Red Blend,4.79,4.73,4.76,4.62
+51774000,8.99,Rhone Valley,13.5,Rose,4.38,4.93,5.0,5.0
+53195285,9.99,"Columbia Valley, Washington",12.5,Rose,4.5,5.0,5.0,5.0
+13462180,8.99,California,13.5,Red Blend,4.71,4.2,4.4,4.4
+13300260,9.99,California,13.5,Red Blend,4.42,3.94,3.95,4.25
+53329126,5.00,California,12.5,Rose,4.06,2.79,3.18,4.03
+53207462,9.99,Australia,13.5,Pinot Noir,4.42,5.0,4.5,5.0
+81783100,9.99,California,14,Pinot Noir,4.17,5.0,5.0,5.0
+51494687,10.99,Italy,12.5,Pinot Grigio,4.57,4.5,4.33,4.33
+14767254,15.99,Italy,13.5,Prosecco,4.83,4.89,4.89,4.89
+81782781,6.49,California,8,White Moscato,4.61,5.0,5.0,5.0
+14767790,5.99,California,9.58,Pink Moscato,4.63,4.6,5.0,5.0
+52525410,5.00,California,13.5,Chardonnay,4.2,3.62,3.62,3.42
+83443894,5.00,California,9.5,White Moscato,4.36,4.8,4.8,5.0
+17125356,8.99,California,13.5,Cabernet Sauvignon,4.46,3.0,2.5,3.67
+52051006,11.99,California,12,Pinot Grigio,4.28,4.0,4.0,4.0
+52114019,12.99,California,13.5,Cabernet Sauvignon,4.6,4.73,4.77,4.74
+47218023,10.99,Italy,5.5,White Moscato,4.8,5.0,4.79,4.86
+81643118,6.99,United States,6.5,Fruit Varietal,4.35,4.4,4.16,4.56
+79234527,3.99,Italy,11,Prosecco,4.35,4.2,4.4,5.0
+13300536,5.99,California,12.5,Pinot Grigio,4.27,0.0,0.0,0.0
+14831437,4.99,California,13.5,Cabernet Sauvignon,4.22,4.25,5.0,5.0
+13300259,9.99,Mendoza,13.5,Malbec,4.53,3.75,3.5,5.0
+47776352,20.99,California,13.9,Cabernet Sauvignon,4.83,4.8,4.8,5.0
+80226935,12.99,California,14.1,Red Blend,4.51,4.36,4.52,4.79
+13461957,5.99,California,13.5,Chardonnay,4.22,4.25,3.5,4.25
+13359260,8.99,California,13.5,Cabernet Sauvignon,4.64,4.0,4.0,5.0
+14777276,19.99,California,13.7,Pinot Noir,4.7,4.45,4.32,4.12
+51743748,10.99,Australia,13.5,Cabernet Sauvignon,4.6,5.0,5.0,5.0
+13403808,16.99,"Sonoma Coast, California",13.5,Chardonnay,4.79,5.0,5.0,5.0
+79329830,9.00,California,13.5,Red Blend,4.27,4.33,4.33,4.56
+85767454,6.99,United States,6.5,Pink Moscato,4.58,5.0,5.0,5.0
+79329828,9.00,California,13.5,Cabernet Sauvignon,4.32,3.5,3.75,4.13
+50441825,17.99,California,13.0,Red Blend,4.09,4.0,4.14,4.0
+15207232,11.99,California,13.5,Pinot Noir,3.94,2.83,2.83,3.33
+81857157,12.99,"Central Coast, California",14,Pinot Noir,4.68,4.57,4.67,4.76
+14766057,12.99,Marlborough,13.0,Sauvignon Blanc,4.65,4.59,4.59,4.59
+50364064,11.99,California,12.2,Rose,4.42,3.75,3.0,3.0
+13312834,10.99,Italy,12.5,Pinot Grigio,4.32,5.0,5.0,5.0
+53192925,13.99,Italy,11,Prosecco,4.61,5.0,5.0,5.0
+13300815,9.99,California,12.5,Pinot Grigio,4.26,4.0,4.0,5.0
+79329831,9.00,California,12.5,Rose,4.13,3.8,4.0,4.6
+78193152,5.99,California,13.5,Chardonnay,4.0,3.0,3.0,1.0
+13461958,5.99,California,13.0,Pinot Grigio,4.7,4.0,4.25,4.75
+78193151,7.99,California,13.5,Cabernet Sauvignon,4.79,5.0,5.0,5.0
+81643120,6.99,United States,6.5,Fruit Varietal,4.4,4.17,4.0,4.47
+50392882,10.99,Marlborough,12.5,Sauvignon Blanc,4.58,5.0,5.0,4.8
+51771693,16.99,United States,13.0,Rose,3.93,3.0,3.38,3.13
+50441827,4.99,California,13.5,Sauvignon Blanc,3.95,5.0,5.0,4.0
+47980935,9.99,Spain,11,Rose,4.22,4.33,4.33,4.33
+15506269,10.99,California,9.0,Pink Moscato,4.57,5.0,5.0,4.67
+54670235,14.99,Italy,8,Prosecco,4.87,5.0,5.0,5.0
+83827712,3.99,Portugal,13,Red Blend,3.77,3.25,3.5,4.75
+13288393,9.99,Italy,8.0,Lambrusco,4.87,5.0,5.0,5.0
+49086688,18.99,California,12.5,Pinot Grigio,4.6,0.0,0.0,0.0
+13461647,9.99,California,9.5,White Zinfandel,4.69,4.67,5.0,5.0
+13426452,8.99,Marlborough,12.5,Sauvignon Blanc,4.39,4.5,4.67,5.0
+47128515,9.99,Midwestern United States,11,Red Blend,4.74,5.0,5.0,5.0
+47985484,9.99,California,14.5,Red Blend,4.48,3.5,3.75,4.75
+81594006,10.99,California,9.5,Red Blend,4.64,4.61,4.57,4.61
+14777282,10.99,Italy,5.5,Red Blend,4.84,4.73,4.73,4.47
+52525444,19.99,"North Coast, California",14,Cabernet Sauvignon,4.43,3.5,3.5,3.5
+54236442,12.99,California,13.5,Pinot Noir,4.54,4.62,4.64,4.77
+51495890,10.99,Italy,5,Red Blend,4.77,4.19,4.3,4.14
+85912344,5.00,California,7.5,Multiple Varietals,4.29,3.44,4.0,4.33
+80139830,10.99,Italy,5,Fruit Varietal,4.76,5.0,4.9,4.76
+47773786,16.99,"Central Coast, California",13.5,Pinot Noir,4.47,0.0,0.0,0.0
+14767298,9.99,California,14.5,Cabernet Sauvignon,4.54,4.93,4.93,4.93
+13403724,14.99,Burgundy,12.5,Beaujolais,4.91,5.0,5.0,5.0
+54551441,11.99,California,14.5,Cabernet Sauvignon,4.5,5.0,5.0,5.0
+14779409,9.99,California,14.5,Zinfandel,4.74,5.0,5.0,5.0
+85912343,5.00,California,7.5,Multiple Varietals,4.45,4.33,4.6,5.0
+16751154,13.99,Italy,12.5,Pinot Grigio,4.7,5.0,5.0,4.67
+13426450,8.99,"Monterey, California",14,Chardonnay,4.43,5.0,5.0,5.0
+14767061,14.99,Italy,5.5,White Moscato,4.75,4.79,4.79,4.41
+14766030,9.99,"Columbia Valley, Washington",13.0,Sauvignon Blanc,4.0,0.0,0.0,0.0
+53209140,8.99,California,13.5,Chardonnay,4.0,0.0,0.0,0.0
+15296611,11.99,California,13.5,Chardonnay,4.63,3.25,3.5,3.25
+17125445,10.99,Australia,13.5,Red Blend,4.56,4.8,4.8,5.0
+14768192,16.99,"Paso Robles, California",13.9,Cabernet Sauvignon,4.53,4.0,5.0,5.0
+14765649,12.99,Piedmont,5,White Moscato,4.85,4.73,4.8,4.73
+13397375,9.99,California,14.5,Chardonnay,4.38,4.22,4.33,4.44
+14766005,10.99,"Columbia Valley, Washington",10.5,Riesling,4.9,5.0,5.0,5.0
+78594648,10.99,Italy,5,White Moscato,4.73,5.0,5.0,5.0
+50364095,11.99,"North Coast, California",13.5,Sauvignon Blanc,4.57,4.75,4.75,4.5
+13422013,10.99,"Columbia Valley, Washington",12.0,Riesling,4.68,4.43,4.5,4.85
+13308407,11.99,Marlborough,13.0,Sauvignon Blanc,4.39,2.67,2.5,3.0
+13421410,8.99,"Columbia Valley, Washington",13.5,Chardonnay,4.64,3.67,4.33,4.33
+13300535,5.99,California,9.0,White Moscato,4.6,4.5,4.5,4.67
+14766412,12.99,Italy,5.5,White Moscato,4.85,5.0,4.95,4.89
+51447589,8.99,California,13.5,Chardonnay,4.71,5.0,5.0,5.0
+79329833,8.99,California,13,Pinot Grigio,4.09,4.0,4.0,4.11
+79628840,10.99,Italy,5,White Blend,4.69,5.0,5.0,5.0
+47134199,19.99,"Sonoma Coast, California",14.8,Cabernet Sauvignon,4.6,0.0,0.0,0.0
+14831435,4.99,California,13.5,Pinot Grigio,3.91,2.71,3.0,3.14
+80279642,9.99,California,15,Cabernet Sauvignon,4.54,4.45,4.45,4.64
+47985791,13.99,France,13.5,Pinot Noir,4.65,5.0,5.0,5.0
+52514377,11.99,Italy,11,Rose,4.2,2.0,2.0,2.0
+47218554,19.99,"Lodi, California",13.0,Cabernet Sauvignon,4.94,5.0,5.0,4.5
+13359258,8.99,California,13.5,Chardonnay,4.4,0.0,0.0,0.0
+81785846,15.99,Italy,11,Prosecco,4.84,5.0,5.0,5.0
+50381343,11.99,Italy,8.0,Rose,4.4,5.0,5.0,5.0
+15207224,11.99,Argentina,14.6,Malbec,4.64,4.79,4.79,5.0
+14767733,14.99,Piedmont,5.5,Pink Moscato,4.55,5.0,5.0,5.0
+82867911,10.99,California,9.65,Rose,4.5,0.0,0.0,0.0
+14767760,9.99,California,9.58,Multiple Varietals,4.59,4.5,4.75,4.75
+52309859,5.99,California,10.5,Rose,4.25,5.0,4.5,5.0
+14777287,5.99,California,9.0,Multiple Varietals,4.57,4.25,4.5,4.75
+54236443,12.99,California,14,Red Blend,4.53,4.86,4.81,4.84
+14779043,19.99,California,14.1,Cabernet Sauvignon,5.0,0.0,0.0,0.0
+13728627,9.99,California,13.5,Cabernet Sauvignon,4.79,4.5,4.5,5.0
+14778995,10.99,Chile,13.5,Cabernet Sauvignon,4.36,5.0,5.0,5.0
+47133280,10.99,"La Rioja, Spain",13.5,Tempranillo,4.2,2.0,3.0,3.0
+52646882,25.99,California,14.2,Cabernet Sauvignon,4.43,5.0,5.0,5.0
+14766496,9.99,"Columbia Valley, Washington",13.5,Red Blend,4.68,3.0,3.0,3.0
+14766647,13.99,California,13.5,Cabernet Sauvignon,4.23,5.0,5.0,4.0
+13307747,15.99,California,13.5,Cabernet Sauvignon,4.84,4.89,4.89,4.75
+14767727,13.99,Chile,13.5,Cabernet Sauvignon,4.52,4.2,4.2,4.0
+13403809,23.99,"Sonoma Coast, California",13.5,Pinot Noir,4.78,5.0,5.0,5.0
+81857159,12.99,"North Coast, California",14.5,Cabernet Sauvignon,4.68,4.64,4.61,4.89
+47134355,21.99,Oregon,14.1,Pinot Noir,4.4,3.0,3.25,3.25
+14767736,10.99,"Columbia Valley, Washington",13.5,Cabernet Sauvignon,4.56,1.0,3.0,3.0
+17125353,11.99,Argentina,14.5,Malbec,4.46,4.3,4.35,4.52
+79601046,23.99,California,14.5,Red Blend,4.65,4.0,4.0,4.0
+50381947,12.99,California,14.5,Cabernet Sauvignon,4.52,5.0,5.0,5.0
+14778346,12.99,Mendoza,14.5,Malbec,4.78,5.0,5.0,5.0
+14777653,12.99,California,13.8,Cabernet Sauvignon,4.3,5.0,5.0,5.0
+80279647,7.99,California,13.5,Red Blend,4.34,4.47,4.33,4.53
+80279645,7.99,California,13.5,Cabernet Sauvignon,4.25,4.0,3.75,4.25
+13426254,9.99,California,13.8,Pinot Noir,4.46,5.0,5.0,5.0
+14766532,15.99,"Lodi, California",15,Zinfandel,4.53,5.0,5.0,5.0
+13359290,8.99,California,13.5,Merlot,4.41,5.0,5.0,5.0
+13462200,5.99,California,13.9,Cabernet Sauvignon,4.53,4.0,4.25,4.75
+50030295,78.99,Champagne,12.5,Prosecco,4.94,5.0,5.0,5.0
+79182389,12.99,"Columbia Valley, Washington",13.5,Pinot Grigio,4.25,4.27,4.82,4.64
+13462181,17.99,California,13.0,Cabernet Sauvignon,4.1,3.17,4.33,4.2
+13463193,10.99,Australia,13,Cabernet Sauvignon,4.73,5.0,5.0,5.0
+14778335,5.99,California,10.0,Pink Moscato,4.38,5.0,5.0,5.0
+54659065,10.99,Italy,11.5,Rose,4.4,4.27,4.36,4.36
+14766491,13.99,California,13,Rose,4.24,4.0,4.0,3.67
+14896558,11.99,New Zealand,13,Sauvignon Blanc,4.77,3.67,3.67,3.67
+13299907,9.99,California,8.5,Spumante,4.61,5.0,5.0,5.0
+13359255,14.99,New Zealand,13,Sauvignon Blanc,4.68,4.45,4.32,4.12
+14775908,9.99,California,13.5,Sauvignon Blanc,4.7,5.0,5.0,5.0
+47134065,12.99,Italy,12.5,White Moscato,4.66,4.78,5.0,4.94
+14775622,13.99,California,13.5,Chardonnay,4.72,5.0,5.0,5.0
+13378636,24.99,Trentino Alto-Adige,12.0,Pinot Grigio,4.47,4.33,4.2,4.0
+80350886,14.99,New Zealand,7,Sauvignon Blanc,4.6,3.2,3.4,2.9
+52280282,18.99,California,13,Cabernet Sauvignon,4.17,1.0,2.0,4.0
+14778347,9.99,Germany,9,Riesling,4.43,4.2,4.2,5.0
+51502217,14.99,California,14.8,Chardonnay,4.11,3.5,4.0,4.0
+17125358,8.99,California,13.5,Sauvignon Blanc,4.66,5.0,5.0,5.0
+52644045,16.99,"Paso Robles, California",10.0,Sauvignon Blanc,4.45,4.33,4.67,4.67
+14766355,11.99,California,13.8,Sauvignon Blanc,4.8,4.5,5.0,5.0
+54452964,9.99,Midwestern United States,7,White Moscato,4.69,5.0,5.0,5.0
+54296337,9.99,California,12,Pinot Grigio,4.1,2.71,3.0,2.71
+14765624,17.99,Marlborough,12.0,Sauvignon Blanc,4.72,5.0,5.0,4.75
+13359467,10.99,Marlborough,12.5,Sauvignon Blanc,4.69,5.0,5.0,5.0
+79319101,18.99,France,13,Sauvignon Blanc,4.76,3.5,3.5,4.0
+79628744,9.99,California,11,Prosecco,4.4,5.0,5.0,4.75
+53209606,13.99,France,12.5,Rose,4.05,3.78,3.78,4.0
+13300817,9.99,California,11.5,Riesling,4.63,5.0,5.0,5.0
+79329829,9.00,California,13.0,Pinot Grigio,4.44,4.8,5.0,5.0
+80223173,9.00,California,10.0,White Moscato,4.82,4.63,4.75,5.0
+13462182,17.99,California,13.5,Sauvignon Blanc,3.98,3.15,2.91,3.0
+13300262,9.99,California,13.0,Chardonnay,4.24,0.0,0.0,0.0
+13463194,10.99,Australia,13,Chardonnay,4.92,0.0,0.0,0.0
+81643119,6.99,United States,6.5,Fruit Varietal,4.4,4.0,4.08,4.36
+13300814,9.99,Argentina,9,White Moscato,4.68,5.0,1.0,1.0
+53194719,17.99,California,13.5,Rose,4.08,4.0,3.5,3.75
+54210154,9.99,California,12,Rose,4.12,3.89,3.89,4.22
+84723811,11.99,"Monterey, California",9,Rose,4.6,4.25,4.5,4.0
+80279648,18.99,France,12.6,Multiple Varietals,3.82,3.47,3.63,3.26
+49086690,18.99,California,13.5,Chardonnay,4.45,1.0,1.0,
+54343314,12.99,United States,13.7,Pinot Noir,4.75,4.45,4.32,4.12
+52280285,18.99,United States,13.5,Red Blend,4.39,3.0,3.0,3.0
+52232267,32.99,"Paso Robles, California",14.5,Cabernet Sauvignon,4.75,4.0,4.0,4.0
+49086689,18.99,"Sonoma, California",13,Cabernet Sauvignon,4.52,4.5,4.75,5.0
+83827711,3.99,Spain,13,Cabernet Sauvignon,3.31,2.0,2.0,2.0
+13359259,10.99,California,13.5,Cabernet Sauvignon,4.39,1.0,1.0,1.0
+14766058,10.99,Spain,11.0,Cava,4.55,4.4,4.4,4.4
+13313161,6.49,California,9.5,Champagne,4.55,4.67,5.0,5.0
+14765733,19.99,California,13.0,Champagne,4.89,5.0,5.0,5.0
+13728569,11.99,Italy,7.5,Asti Spumante,4.79,5.0,5.0,5.0
+80279643,18.99,Chile,12.5,Sauvignon Blanc,3.88,1.0,1.0,1.0
+52359319,16.99,Italy,11.0,Prosecco,4.82,5.0,5.0,5.0
+83827713,3.99,Italy,13,Pinot Grigio,4.2,5.0,5.0,5.0
+54343236,9.99,New Zealand,13,Sauvignon Blanc,4.66,4.45,4.32,4.12
+81252753,6.49,California,8,Fruit Varietal,4.58,4.0,4.67,5.0
+53222354,12.99,Provence,13,Rose,5.0,5.0,5.0,5.0
+83827714,3.99,France,12,Rose,4.0,2.33,2.33,4.0
+79722689,16.99,California,12,Rose,4.29,4.1,4.2,4.0
+54222349,10.99,France,13,Rose,3.87,2.67,2.83,2.67
+52896839,10.99,Italy,5,Fruit Varietal,4.8,4.85,4.85,4.9
+51304821,12.99,California,15.9,Red Blend,4.39,5.0,5.0,5.0
+52896841,10.99,Italy,5,Red Blend,4.78,4.33,4.42,4.42
+47911451,13.99,California,13.9,Merlot,4.5,5.0,4.0,5.0
+13421589,12.99,"Columbia Valley, Washington",13.5,Cabernet Sauvignon,4.26,3.5,3.5,3.5
+13397374,9.99,California,14.5,Merlot,4.67,5.0,5.0,5.0
+53621673,19.99,"Paso Robles, California",14.5,Cabernet Sauvignon,4.71,5.0,5.0,5.0
+47132851,15.99,"Columbia Valley, Washington",14.5,Cabernet Sauvignon,4.85,0.0,0.0,0.0
+82867910,10.99,California,9.65,Red Blend,3.72,3.0,3.5,4.0
+13463121,5.99,Australia,13,Cabernet Sauvignon,4.0,3.67,3.33,3.67
+13421412,13.99,"Columbia Valley, Washington",13.5,Merlot,4.8,0.0,0.0,0.0
+14779412,9.99,California,14.5,Red Blend,4.8,5.0,5.0,5.0
+13462737,5.99,Australia,13.5,Syrah/Shiraz,4.22,3.0,3.0,3.5
+52525707,8.99,California,13.5,Cabernet Sauvignon,4.07,3.13,3.13,3.5
+81894236,11.99,Italy,7,Red Blend,4.72,5.0,5.0,5.0
+47134361,9.99,California,14.5,Pinot Noir,4.89,5.0,4.8,4.8
+53817356,8.99,California,13.5,Pinot Noir,4.11,1.0,1.0,2.0
+53817357,8.99,California,13.8,Merlot,4.42,5.0,5.0,5.0
+53805767,11.99,Italy,14,Red Blend,3.93,3.6,4.4,4.6
+81783101,9.99,California,14,Merlot,4.25,5.0,5.0,5.0
+52639265,16.99,Piedmont,5.5,Red Moscato,4.75,5.0,5.0,5.0
+14767279,5.99,California,10.5,Red Blend,4.23,4.0,3.5,4.0
+13299908,6.99,California,13.0,Cabernet Sauvignon,4.33,0.0,0.0,0.0
+13299909,5.99,California,12.5,Pinot Noir,4.39,4.5,4.5,4.5
+14767824,5.99,Australia,12,Red Blend,3.75,4.0,4.0,5.0
+13397028,9.99,California,14.5,Petit Syrah,4.94,4.8,4.8,5.0
+51759155,14.99,Burgundy,13.27,Beaujolais,5.0,0.0,0.0,0.0
+47134208,17.99,California,14.5,Red Blend,5.0,5.0,5.0,5.0
+14767280,8.99,California,13.5,Red Blend,3.65,2.75,3.0,2.8
+79806660,14.99,Piedmont,5.5,Red Blend,4.5,1.0,3.0,1.0
+51752659,16.99,"Columbia Valley, Washington",14.5,Merlot,0.0,0.0,0.0,0.0
+13426451,8.99,California,13.5,Cabernet Sauvignon,4.2,1.0,1.0,1.0
+81827141,13.99,Italy,5,Red Blend,5.0,0.0,0.0,0.0

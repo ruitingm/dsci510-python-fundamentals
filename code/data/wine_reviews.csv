@@ -1,0 +1,1501 @@
+country,points,price,province,region_1,region_2,variety,winery
+US,87,13.0,Washington,Yakima Valley,Columbia Valley,Pinot Gris,Mercer
+US,88,28.0,California,Livermore Valley,Central Coast,Pinot Blanc,Las Positas
+US,90,27.0,California,Napa Valley,Napa,Chenin Blanc,Lang & Reed
+US,91,38.0,Washington,Wahluke Slope,Columbia Valley,Syrah,Fielding Hills
+US,89,36.0,California,Russian River Valley,Sonoma,Viognier,Kobler
+US,82,45.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Ampelos
+US,91,34.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Morgan
+US,89,65.0,California,Paso Robles,Central Coast,Red Blend,Dubost
+US,92,42.0,California,Sierra Foothills,Sierra Foothills,Red Blend,Naggiar
+US,86,16.0,California,Sonoma County,Sonoma,Sangiovese,Valley of the Moon
+US,91,32.0,California,Paso Robles,Central Coast,Grenache,Villa San Juliette
+US,88,33.0,California,Chalk Hill,Sonoma,Sauvignon Blanc,Chalk Hill
+US,84,13.0,New York,Long Island,Long Island,Chardonnay,Channing Daughters
+US,89,26.0,New York,Finger Lakes,Finger Lakes,Riesling,Bloomer Creek
+US,93,50.0,California,Amador County,Sierra Foothills,Zinfandel,Renwood
+US,90,25.0,California,California,California Other,Red Blend,SOLID
+US,90,25.0,California,Monterey,Central Coast,Pinot Noir,San Simeon
+US,93,22.0,California,Napa Valley,Napa,Pinot Noir,Brick & Mortar
+US,92,49.0,California,Russian River Valley,Sonoma,Chardonnay,Papapietro Perry
+US,87,28.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Tamarack Cellars
+US,93,55.0,California,Santa Cruz Mountains,Central Coast,Syrah,Big Basin
+US,88,28.0,California,Santa Barbara County,Central Coast,Viognier,Fess Parker
+US,92,75.0,California,Mount Veeder,Napa,Cabernet Sauvignon,Robert Craig
+US,88,60.0,California,Napa Valley,Napa,Cabernet Sauvignon,Oakville Ranch
+US,93,61.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Testarossa
+US,84,45.0,California,Carneros-Napa Valley,Napa,Pinot Noir,Beaulieu Vineyard
+US,86,16.0,California,Central Coast,Central Coast,Pinot Noir,Blue Hawk
+US,86,14.0,California,Paso Robles,Central Coast,Rosé,Vinum
+US,86,85.0,California,St. Helena,Napa,Cabernet Sauvignon,Raymond
+US,84,15.0,California,California,California Other,Sauvignon Blanc,Sylvester
+US,87,24.0,Washington,Horse Heaven Hills,Columbia Valley,Malbec,14 Hands
+US,87,19.0,California,Paso Robles,Central Coast,Zinfandel,Bianchi
+US,89,15.0,California,Sonoma County,Sonoma,Cabernet Sauvignon,Wellington
+US,87,12.0,California,Dry Creek Valley,Sonoma,Zinfandel,Pedroncelli
+US,93,29.0,California,Santa Cruz Mountains,Central Coast,Pinot Noir,Windy Oaks
+US,86,26.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Justin
+US,90,34.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Louis M. Martini
+US,87,30.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Lakewood
+US,91,25.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Ponzi
+US,93,35.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Weatherborne
+US,86,17.0,California,California,California Other,Red Blend,Spann Vineyards
+US,88,20.0,California,North Coast,North Coast,Cabernet Sauvignon,Josh Cellars
+US,89,50.0,California,El Pomar District,Central Coast,Red Blend,Sextant
+US,84,27.0,California,San Francisco Bay,Central Coast,Zinfandel,Dante Robere
+US,90,39.0,California,Russian River Valley,Sonoma,Chardonnay,Patz & Hall
+US,86,25.0,New York,Finger Lakes,Finger Lakes,Champagne Blend,Château Frank
+US,85,18.0,Washington,Walla Walla Valley (WA),Columbia Valley,Sangiovese,Vital
+US,90,48.0,California,Russian River Valley,Sonoma,Sparkling Blend,Longboard
+US,92,28.0,California,Oak Knoll District,Napa,Chardonnay,Corvalle
+US,91,9.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Barnard Griffin
+US,93,96.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Chateau Margene
+US,87,12.0,California,California,California Other,Red Blend,Leese-Fitch
+US,92,80.0,California,Calistoga,Napa,Cabernet Sauvignon,Davies
+US,88,58.0,California,Paso Robles,Central Coast,Red Blend,Niner
+US,91,50.0,California,Santa Ynez Valley,Central Coast,Merlot,Brave & Maiden
+US,90,36.0,Washington,Columbia Valley (WA),Columbia Valley,Grenache,Bunnell
+US,89,40.0,Washington,Yakima Valley,Columbia Valley,Tempranillo,Canoe Ridge
+US,91,20.0,California,Paso Robles,Central Coast,Rhône-style White Blend,Tablas Creek
+US,88,15.0,Oregon,Willamette Valley,Willamette Valley,Chardonnay,Lujon
+US,91,20.0,California,North Coast,North Coast,Red Blend,Marietta Cellars
+US,93,50.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Loring Wine Company
+US,94,150.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Blackbird Vineyards
+US,93,75.0,California,Spring Mountain District,Napa,Cabernet Sauvignon,Terra Valentine
+US,93,70.0,Washington,Columbia Valley (WA),Columbia Valley,G-S-M,Tenet
+US,91,45.0,Washington,Yakima Valley,Columbia Valley,Syrah,Avennia
+US,83,45.0,California,Sonoma Valley,Sonoma,Zinfandel,Rancho Zabaco
+US,89,38.0,California,Paso Robles,Central Coast,Zinfandel,Écluse
+US,84,16.0,California,Knights Valley,Sonoma,Syrah,Earthshaker
+US,84,14.0,California,California,California Other,Pinot Noir,Cartlidge & Browne
+US,83,21.0,California,Sonoma Coast,Sonoma,Pinot Noir,Director's Cut
+US,89,20.0,New York,Finger Lakes,Finger Lakes,Riesling,Red Newt Cellars
+US,83,25.0,California,Santa Ynez Valley,Central Coast,Chardonnay,Brander
+US,92,35.0,California,Santa Barbara County,Central Coast,Cabernet Sauvignon,Nadia
+US,92,28.0,California,Russian River Valley,Sonoma,Chardonnay,Balletto
+US,86,12.0,California,California,California Other,Moscato,Moscato Bella
+US,83,19.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Cubanisimo Vineyards
+US,89,35.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Robert Ramsay
+US,86,28.0,California,Russian River Valley,Sonoma,Pinot Noir,Miro
+US,92,60.0,Oregon,McMinnville,Willamette Valley,Pinot Noir,Hyland
+US,87,25.0,New York,North Fork of Long Island,Long Island,Merlot,Raphael
+US,88,29.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Firesteed
+US,91,18.0,Oregon,Dundee Hills,Willamette Valley,Pinot Blanc,Thistle
+US,89,60.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Feather
+US,87,24.0,California,Napa Valley,Napa,Chardonnay,Rutherford Ranch
+US,89,28.0,Washington,Columbia Gorge (WA),Washington Other,Chardonnay,Foundry Vineyards
+US,91,28.0,Washington,Yakima Valley,Columbia Valley,Syrah,McCrea Cellars
+US,87,23.0,Washington,Columbia Valley (WA),Columbia Valley,White Blend,Patterson
+US,94,49.0,California,Sonoma Coast,Sonoma,Syrah,Boheme
+US,90,24.0,New York,Long Island,Long Island,Rosé,Wölffer
+US,85,11.0,California,California,California Other,Chardonnay,Grayson
+US,87,12.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Liberty School
+US,87,12.0,California,Santa Ynez Valley,Central Coast,Sauvignon Blanc,Buttonwood Farm
+US,84,36.0,Washington,Yakima Valley,Columbia Valley,Malbec,Telaya
+US,87,40.0,Oregon,Rogue Valley,Southern Oregon,Grenache,Griffin Creek
+US,90,38.0,California,Napa Valley,Napa,Cabernet Sauvignon,Louis M. Martini
+US,89,20.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Illahe
+US,88,44.0,California,Paso Robles,Central Coast,Red Blend,Kiamie
+US,82,17.0,California,Alexander Valley,Sonoma,Chardonnay,Souverain
+US,93,30.0,California,Russian River Valley,Sonoma,Zinfandel,Carlisle
+US,91,11.0,Washington,Columbia Valley (WA),Columbia Valley,Gewürztraminer,Hogue
+US,85,25.0,California,St. Helena,Napa,Cabernet Sauvignon,Krutz
+US,93,39.0,California,Santa Maria Valley,Central Coast,Chardonnay,Dolin
+US,89,25.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Coelho
+US,84,15.0,California,California,California Other,Red Blend,Murphy-Goode
+US,82,16.0,California,Sonoma County,Sonoma,Pinot Noir,Taft Street
+US,93,75.0,California,Napa Valley,Napa,Cabernet Sauvignon,Flora Springs
+US,93,85.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Figgins
+US,85,13.0,California,North Coast,North Coast,Zinfandel,Pure
+US,93,48.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Samsara
+US,88,25.0,New York,Finger Lakes,Finger Lakes,Gewürztraminer,Dr. Konstantin Frank
+US,87,24.0,California,Edna Valley,Central Coast,Pinot Noir,Tolosa
+US,90,60.0,California,Russian River Valley,Sonoma,Pinot Noir,En Garde
+US,87,15.0,California,Sonoma County,Sonoma,Chardonnay,Gallo Family Vineyards
+US,90,16.0,California,Monterey County,Central Coast,Chardonnay,Slow Press
+US,85,20.0,California,Temecula Valley,South Coast,Rosé,Lorenzi Estate
+US,88,22.0,Washington,Horse Heaven Hills,Columbia Valley,Grenache,L'Ecole No. 41
+US,88,65.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Juslyn Vineyards
+US,81,12.0,California,Lodi,Central Valley,White Blend,Peirano
+US,84,75.0,California,Sonoma Coast,Sonoma,Chardonnay,Keller Estate
+US,86,26.0,California,Napa Valley,Napa,Chardonnay,Flora Springs
+US,91,35.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Seven Hills
+US,90,25.0,California,San Bernabe,Central Coast,Red Blend,Diora
+US,91,19.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Pondera
+US,87,60.0,California,Sonoma County,Sonoma,Syrah,Pride Mountain
+US,86,48.0,California,Santa Maria Valley,Central Coast,Syrah,Foxen
+US,92,45.0,California,Oakville,Napa,Cabernet Sauvignon,Oakville Winery
+US,84,19.0,California,Amador County,Sierra Foothills,Zinfandel,Four Vines
+US,91,40.0,California,Central Coast,Central Coast,Rhône-style Red Blend,Clos La Chance
+US,89,30.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Apex
+US,90,28.0,Washington,Red Mountain,Columbia Valley,Syrah,Ambassador Vineyard
+US,88,45.0,New York,North Fork of Long Island,Long Island,Sparkling Blend,Bedell
+US,90,70.0,California,Russian River Valley,Sonoma,Pinot Noir,De Loach
+US,90,34.0,California,Russian River Valley,Sonoma,Pinot Gris,J Vineyards & Winery
+US,89,34.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Boekenoogen
+US,86,26.0,California,Knights Valley,Sonoma,Viognier,Lawer
+US,82,41.0,California,Temecula Valley,South Coast,Sangiovese,Cougar
+US,92,150.0,California,Saddle Rock-Malibu,South Coast,Cabernet Sauvignon,Cielo
+US,94,98.0,California,Diamond Mountain District,Napa,Cabernet Sauvignon,En Garde
+US,93,45.0,California,Russian River Valley,Sonoma,Zinfandel,Dutton-Goldfield
+US,84,13.0,California,California,California Other,G-S-M,Cameron Hughes
+US,92,38.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Ojai
+US,90,28.0,New York,North Fork of Long Island,Long Island,Cabernet Sauvignon,Hound's Tree
+US,87,60.0,California,Santa Maria Valley,Central Coast,Grenache,Alta Maria
+US,85,45.0,California,Napa Valley,Napa,Cabernet Sauvignon,Judd's Hill
+US,85,30.0,California,Paso Robles,Central Coast,Malbec,Hearst Ranch
+US,87,16.0,New York,Finger Lakes,Finger Lakes,Chardonnay,Stony Lonesome
+US,92,75.0,California,Napa Valley,Napa,Petit Verdot,Frazier
+US,87,23.0,California,Russian River Valley,Sonoma,Sauvignon Blanc,Dutton Estate
+US,89,65.0,Washington,Columbia Valley (WA),Columbia Valley,Grenache,Alleromb
+US,92,39.0,California,North Coast,North Coast,Sparkling Blend,Schramsberg
+US,90,24.0,California,Sonoma Mountain,Sonoma,Pinot Meunier,Novy
+US,88,11.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Gordon Brothers
+US,92,39.0,California,Russian River Valley,Sonoma,Chardonnay,Fog Crest
+US,94,75.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Trisaetum
+US,91,16.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Arbor Crest
+US,86,25.0,Washington,Wahluke Slope,Columbia Valley,Zinfandel,Two Vintners
+US,87,18.0,Oregon,Oregon,Oregon Other,Pinot Gris,Pino
+US,91,40.0,Oregon,Applegate Valley,Southern Oregon,Cabernet Franc-Merlot,Quady North
+US,84,23.0,California,Sonoma Valley,Sonoma,Sauvignon Blanc,Parmeson
+US,84,14.0,California,Central Coast,Central Coast,Chardonnay,Cupcake
+US,94,62.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Foxen
+US,93,58.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Robert Young
+US,90,37.0,California,Sierra Foothills,Sierra Foothills,Barbera,Naggiar
+US,88,42.0,California,Carneros,Napa-Sonoma,Chardonnay,Jeff Gordon
+US,84,18.0,California,El Dorado,Sierra Foothills,Cabernet Franc,Charles B. Mitchell
+US,95,30.0,Washington,Columbia Gorge (WA),Washington Other,Chardonnay,Tranche
+US,86,40.0,California,Paso Robles,Central Coast,Meritage,Robert Hall
+US,93,60.0,California,Napa Valley,Napa,Cabernet Sauvignon,Sequum
+US,86,22.0,Washington,Yakima Valley,Columbia Valley,Merlot,Kestrel
+US,95,75.0,California,Chalk Hill,Sonoma,Cabernet Sauvignon,Creō
+US,91,50.0,California,Edna Valley,Central Coast,Pinot Noir,Summerland
+US,82,19.0,California,North Coast,North Coast,Petite Sirah,Ramsay
+US,91,39.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Chateau Margene
+US,89,27.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Ott & Murphy
+US,96,60.0,California,Santa Ynez Valley,Central Coast,Syrah,Zaca Mesa
+US,88,20.0,California,Sonoma County-Napa County,Napa-Sonoma,Merlot,Ghost Pines
+US,89,28.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Tamarack Cellars
+US,87,50.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Three Rivers
+US,87,35.0,California,Lodi,Central Valley,Cabernet Franc,Michael David
+US,93,36.0,New York,Seneca Lake,Finger Lakes,Riesling,Hermann J. Wiemer
+US,89,24.0,California,Paso Robles,Central Coast,Albariño,Broken Earth
+US,90,24.0,California,Santa Barbara County,Central Coast,Rhône-style White Blend,Standing Sun
+US,91,22.0,Oregon,Oregon,Oregon Other,Viognier,Apolloni
+US,90,24.0,California,Calaveras County,Sierra Foothills,Petite Sirah,Newsome-Harlow
+US,86,25.0,Oregon,Willamette Valley,Willamette Valley,Rosé,Samuel Robert
+US,83,18.0,California,Paso Robles,Central Coast,Red Blend,Pomar Junction
+US,86,32.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,The Four Graces
+US,86,16.0,California,Dry Creek Valley,Sonoma,Cabernet Sauvignon,Pedroncelli
+US,86,65.0,California,Napa Valley,Napa,Chardonnay,Merryvale
+US,84,14.0,California,California,California Other,Chardonnay,R8
+US,85,40.0,Washington,Red Mountain,Columbia Valley,Cabernet Sauvignon,:Nota Bene
+US,83,10.0,California,California,California Other,Cabernet Sauvignon,Cookies & Cream
+US,90,35.0,California,Sonoma Valley,Sonoma,Cabernet Sauvignon,Spann Vineyards
+US,85,15.0,California,Napa Valley,Napa,Sauvignon Blanc,Verse & Chorus
+US,92,45.0,California,Napa Valley,Napa,Syrah,Aril
+US,92,27.0,California,Napa Valley,Napa,Cabernet Sauvignon,Cameron Hughes
+US,92,26.0,California,Sierra Foothills,Sierra Foothills,Syrah,La Clarine Farm
+US,89,16.0,California,Lodi,Central Valley,Primitivo,Uvaggio
+US,95,40.0,California,Oakville,Napa,Fumé Blanc,Robert Mondavi
+US,90,36.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Ruby
+US,89,30.0,Washington,Walla Walla Valley (WA),Columbia Valley,Merlot,Kontos
+US,91,40.0,California,Sonoma Valley,Sonoma,Zinfandel,St. Francis
+US,86,39.0,California,Paso Robles,Central Coast,Rhône-style White Blend,Ascension Cellars
+US,87,14.0,California,Sonoma County,Sonoma,Merlot,Kenwood
+US,87,25.0,California,Paso Robles,Central Coast,Merlot,River Star
+US,92,50.0,Washington,Red Mountain,Columbia Valley,Bordeaux-style Red Blend,Tamarack Cellars
+US,88,48.0,California,Santa Cruz Mountains,Central Coast,Meritage,Kings Mountain
+US,92,50.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Gramercy
+US,90,54.0,California,Carneros,Napa-Sonoma,Pinot Noir,Saintsbury
+US,90,42.0,California,Bennett Valley,Sonoma,Roussanne,Red Car
+US,88,75.0,California,Napa Valley,Napa,Cabernet Sauvignon,Trotter 1/16
+US,96,34.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Boekenoogen
+US,92,90.0,California,Adelaida District,Central Coast,Cabernet Sauvignon,The Farm Winery
+US,86,20.0,California,Napa Valley,Napa,Cabernet Sauvignon,Napa Station
+US,83,26.0,California,Calistoga,Napa,Sauvignon Blanc,Vermeil
+US,92,28.0,California,Dry Creek Valley,Sonoma,Zinfandel,Dry Creek Vineyard
+US,83,28.0,California,Central Coast,Central Coast,Chardonnay,Calcareous
+US,89,15.0,California,California,California Other,Moscato,St. Supéry
+US,92,45.0,California,Chalk Hill,Sonoma,Sauvignon Blanc,Chalk Hill
+US,93,45.0,Washington,Walla Walla Valley (WA),Columbia Valley,Sangiovese,K Vintners
+US,88,32.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Dunning Vineyards
+US,92,36.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Colene Clemens
+US,85,12.0,California,Santa Ynez Valley,Central Coast,Sauvignon Blanc,Koehler
+US,89,23.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Novelty Hill
+US,86,12.0,California,California,California Other,Pinot Noir,Guenoc
+US,89,42.0,California,Yorkville Highlands,North Coast,Syrah,Meyer Family Cellars
+US,89,50.0,New York,North Fork of Long Island,Long Island,Petit Verdot,Pellegrini Vineyards
+US,88,19.0,California,Napa Valley,Napa,Merlot,Parcel 41
+US,89,12.0,Washington,Washington,Washington Other,Chardonnay,Charles Smith
+US,91,95.0,California,Napa Valley,Napa,Cabernet Sauvignon,Duckhorn
+US,88,18.0,California,Napa Valley,Napa,Pinot Gris,Waterstone
+US,89,28.0,Washington,Columbia Valley (WA),Columbia Valley,Mourvèdre,Stottle
+US,83,14.0,Washington,Yakima Valley,Columbia Valley,Chardonnay,San Juan Vineyards
+US,83,30.0,California,Monterey County,Central Coast,Pinot Noir,Dahlia
+US,82,24.0,California,Sonoma Coast,Sonoma,Pinot Noir,La Crema
+US,87,21.0,California,Paso Robles,Central Coast,Chardonnay,Robert Hall
+US,85,39.0,California,Fair Play,Sierra Foothills,Tempranillo Blend,Baiocchi Wines
+US,86,40.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Basel Cellars
+US,90,32.0,California,Dry Creek Valley,Sonoma,Grenache,Quivira
+US,90,22.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Novelty Hill
+US,87,24.0,Oregon,Rogue Valley,Southern Oregon,Pinot Noir,Deer Creek
+US,93,38.0,California,Paso Robles,Central Coast,Rhône-style Red Blend,Seven Oxen
+US,96,44.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Samsara
+US,92,45.0,California,Paso Robles,Central Coast,Zinfandel,Hearst Ranch
+US,91,48.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Douglas Vineyards
+US,93,42.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Boekenoogen
+US,86,20.0,California,Green Valley,Sonoma,Pinot Noir,River Road
+US,90,18.0,California,Amador County,Sierra Foothills,Aglianico,Terra d'Oro
+US,91,50.0,California,Russian River Valley,Sonoma,Pinot Noir,J Vineyards & Winery
+US,82,16.0,Washington,Horse Heaven Hills,Columbia Valley,Sauvignon Blanc,Canoe Ridge
+US,82,12.0,California,Sonoma County,Sonoma,White Blend,Pedroncelli
+US,87,34.0,California,Santa Barbara County,Central Coast,Grenache,Jaffurs
+US,88,44.0,California,Calistoga,Napa,Cabernet Sauvignon,Summers
+US,87,27.0,New York,Finger Lakes,Finger Lakes,Riesling,Heart & Hands
+US,87,14.0,California,Monterey County,Central Coast,Cabernet Sauvignon,Robert Mondavi
+US,94,44.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Cinnabar
+US,85,48.0,California,Santa Ynez Valley,Central Coast,Syrah,Sunstone
+US,87,5.0,California,California,California Other,Sparkling Blend,Mancan
+US,88,39.0,California,Fair Play,Sierra Foothills,Syrah-Tempranillo,Baiocchi Wines
+US,87,55.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Willamette Valley Vineyards
+US,88,42.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Kessler-Haak
+US,90,17.0,New York,Finger Lakes,Finger Lakes,Riesling,Ravines
+US,85,15.0,California,El Dorado,Sierra Foothills,Mataro,Coulson Eldorado
+US,91,60.0,California,Templeton Gap District,Central Coast,Zinfandel,Lone Madrone
+US,91,54.0,California,Alexander Valley,Sonoma,Sangiovese,Seghesio
+US,93,80.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Vidon Vineyard
+US,93,38.0,California,Arroyo Grande Valley,Central Coast,Tempranillo,Bodega de Edgar
+US,87,14.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Preston
+US,91,23.0,Oregon,Willamette Valley,Willamette Valley,Pinot Blanc,Vercingetorix VX
+US,88,29.0,California,Sierra Foothills,Sierra Foothills,Petite Sirah,Naggiar
+US,82,12.0,California,California,California Other,Sauvignon Blanc,Mirassou
+US,86,32.0,California,Amador County,Sierra Foothills,Zinfandel,Iron Hub
+US,90,60.0,California,Mount Veeder,Napa,Cabernet Sauvignon,Renteria
+US,89,30.0,New York,North Fork of Long Island,Long Island,Cabernet Franc,Lieb
+US,85,20.0,New York,New York,New York Other,Sparkling Blend,Hosmer
+US,91,36.0,California,Russian River Valley,Sonoma,Pinot Noir,Matrix
+US,92,75.0,California,Sonoma Coast,Sonoma,Pinot Noir,J Vineyards & Winery
+US,85,70.0,California,Coombsville,Napa,Cabernet Sauvignon,J. Moss Wines
+US,90,35.0,California,Napa Valley,Napa,Cabernet Sauvignon,Michael Mondavi Family Estate
+US,92,32.0,New York,North Fork of Long Island,Long Island,Cabernet Franc,Southold
+US,87,38.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,McIntyre Vineyards
+US,93,75.0,Oregon,Dundee Hills,Willamette Valley,Chardonnay,Domaine Serene
+US,95,62.0,California,Santa Cruz Mountains,Central Coast,Pinot Noir,Clos de la Tech
+US,86,22.0,California,Yorkville Highlands,North Coast,Bordeaux-style Red Blend,Wattle Creek
+US,90,17.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Lange
+US,93,200.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Merryvale
+US,84,60.0,California,Santa Ynez Valley,Central Coast,Pinot Noir,Whitcraft
+US,84,45.0,California,Paso Robles,Central Coast,Petite Sirah,Thacher
+US,90,40.0,California,Alexander Valley,Sonoma,Pinot Noir,Drew
+US,88,35.0,California,Sierra Foothills,Sierra Foothills,Syrah,Terre Rouge
+US,91,22.0,California,Monterey County,Central Coast,Riesling,MaidenStoen
+US,92,26.0,California,Central Coast,Central Coast,Grenache,Storrs
+US,87,28.0,Washington,Yakima Valley,Columbia Valley,Riesling,Columbia Crest
+US,88,32.0,California,Edna Valley,Central Coast,Pinot Noir,Tolosa
+US,86,27.0,California,Russian River Valley,Sonoma,Merlot,Longboard
+US,87,30.0,Oregon,Oregon,Oregon Other,Viognier,Merrill Cellars
+US,87,54.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Testarossa
+US,86,40.0,California,Russian River Valley,Sonoma,Chardonnay,Mountain View
+US,88,19.0,California,Edna Valley,Central Coast,Pinot Noir,Fossil Point
+US,92,42.0,California,Temecula Valley,South Coast,Cabernet Sauvignon,Lorenzi Estate
+US,89,25.0,California,Livermore Valley,Central Coast,Merlot,Cuda Ridge Wines
+US,90,38.0,California,Paso Robles,Central Coast,Syrah,Cinnabar
+US,82,14.0,California,Paso Robles,Central Coast,Sauvignon Blanc,Ancient Peaks
+US,89,20.0,California,Napa Valley,Napa,Sauvignon Blanc,Whitehall Lane
+US,89,24.0,Washington,Yakima Valley,Columbia Valley,White Blend,Brian Carter Cellars
+US,90,20.0,Washington,Walla Walla Valley (WA),Columbia Valley,Semillon-Sauvignon Blanc,L'Ecole No. 41
+US,88,25.0,California,Russian River Valley,Sonoma,Sauvignon Blanc,Martin Ray
+US,92,29.0,California,El Dorado,Sierra Foothills,Petite Sirah,Cedarville Vineyard
+US,86,34.0,California,Dry Creek Valley,Sonoma,Zinfandel,Bradford Mountain
+US,83,35.0,California,Dry Creek Valley,Sonoma,Cabernet Sauvignon,Wellington
+US,92,40.0,Oregon,Ribbon Ridge,Willamette Valley,Chardonnay,Goodfellow
+US,93,45.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,K Vintners
+US,88,25.0,California,Napa Valley,Napa,Moscato,St. Supéry
+US,91,38.0,California,Rockpile,Sonoma,Zinfandel,Seghesio
+US,87,20.0,Oregon,Willamette Valley,Willamette Valley,Rosé,Coeur de Terre
+US,93,150.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Goldschmidt
+US,84,18.0,California,Russian River Valley,Sonoma,Pinot Noir,Picket Fence
+US,95,50.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Siduri
+US,94,63.0,Oregon,Eola-Amity Hills,Willamette Valley,Pinot Noir,Ken Wright
+US,89,53.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,DiStefano
+US,84,14.0,Oregon,Willamette Valley,Willamette Valley,Pinot Blanc,Erath
+US,85,13.0,California,Central Coast,Central Coast,Zinfandel,Blackburn Wine Company
+US,88,25.0,California,Russian River Valley,Sonoma,Sauvignon Blanc,Davis Bynum
+US,89,29.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Dunham
+US,87,67.0,California,Paso Robles,Central Coast,Bordeaux-style Red Blend,Silver Horse
+US,86,16.0,California,Santa Barbara County,Central Coast,Pinot Grigio,Toccata
+US,85,9.0,California,California,California Other,Red Blend,Alias
+US,83,16.0,California,Lodi,Central Valley,Verdelho,Barreto
+US,88,9.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Hedges
+US,91,25.0,California,Dry Creek Valley,Sonoma,Cabernet Sauvignon,Dry Creek Vineyard
+US,90,45.0,California,Napa Valley,Napa,Cabernet Sauvignon,Bell
+US,93,160.0,California,Stags Leap District,Napa,Cabernet Sauvignon,Hall
+US,88,75.0,California,Sonoma Valley,Sonoma,Chardonnay,Hanzell
+US,88,29.0,California,Sonoma Coast,Sonoma,Pinot Noir,Siduri
+US,90,11.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Chateau Ste. Michelle
+US,87,40.0,California,San Benito County,Central Coast,Pinot Noir,Pessagno
+US,90,40.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Pomum
+US,90,50.0,California,Adelaida District,Central Coast,Mourvèdre,Adelaida Cellars
+US,85,49.0,California,Green Valley,Sonoma,Pinot Noir,Roadhouse Winery
+US,88,15.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Illahe
+US,93,60.0,California,Paso Robles,Central Coast,Nebbiolo,Lone Madrone
+US,85,10.0,New York,New York,New York Other,Red Blend,Thousand Islands Winery
+US,89,30.0,California,Arroyo Seco,Central Coast,Chardonnay,Joullian
+US,88,35.0,California,Napa Valley,Napa,Red Blend,Kuleto Estate
+US,89,18.0,Washington,Lake Chelan,Columbia Valley,Riesling,Tildio
+US,93,45.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Barons
+US,92,50.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Talbott
+US,89,25.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Byron
+US,87,36.0,New York,North Fork of Long Island,Long Island,Cabernet Franc,Peconic Bay Winery
+US,88,17.0,New York,Finger Lakes,Finger Lakes,Gewürztraminer,Bellangelo
+US,88,10.0,California,California,California Other,Cabernet Sauvignon,Beringer
+US,92,44.0,California,Arroyo Grande Valley,Central Coast,Chardonnay,Talley
+US,93,40.0,California,Carneros,Napa-Sonoma,Sparkling Blend,Gloria Ferrer
+US,90,35.0,Oregon,Eola-Amity Hills,Willamette Valley,Pinot Noir,Redhawk
+US,91,60.0,California,Russian River Valley,Sonoma,Chardonnay,Lynmar
+US,89,15.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Atwater
+US,85,8.0,California,California,California Other,Pinot Grigio,Woodbridge by Robert Mondavi
+US,91,19.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Elk Cove
+US,89,42.0,Oregon,Eola-Amity Hills,Willamette Valley,Pinot Noir,Iota Cellars
+US,88,45.0,Washington,Columbia Valley (WA),Columbia Valley,Sparkling Blend,Noviello
+US,90,40.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Thistle
+US,91,18.0,California,Monterey,Central Coast,Albariño,Morgan
+US,90,25.0,California,Santa Barbara County,Central Coast,Roussanne,Curtis
+US,87,32.0,California,Carneros,Napa-Sonoma,Chardonnay,Barnett
+US,89,35.0,California,Happy Canyon of Santa Barbara,Central Coast,Bordeaux-style Red Blend,Foxen 7200
+US,87,35.0,Washington,Yakima Valley,Columbia Valley,Cabernet Sauvignon,Stottle
+US,92,88.0,California,Napa Valley,Napa,Red Blend,Castello di Amorosa
+US,84,15.0,New York,Finger Lakes,Finger Lakes,Chardonnay,Fox Run
+US,87,60.0,California,Russian River Valley,Sonoma,Pinot Noir,Della
+US,83,10.0,California,California,California Other,Merlot,Firestone
+US,92,35.0,California,Oak Knoll District,Napa,Chardonnay,Trefethen
+US,88,24.0,California,Sonoma County,Sonoma,Pinot Noir,Festival and Feast
+US,90,55.0,California,Sonoma Coast,Sonoma,Pinot Noir,Lachini
+US,87,24.0,California,Central Coast,Central Coast,Chardonnay,Deep Sea
+US,86,22.0,California,Edna Valley,Central Coast,Syrah,Tolosa
+US,82,13.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Emerson
+US,90,45.0,California,Russian River Valley,Sonoma,Syrah-Tempranillo,Marimar Estate
+US,87,14.0,California,Paso Robles,Central Coast,Rosé,Robert Hall
+US,87,13.0,Washington,Washington,Washington Other,Blaufränkisch,Shooting Star
+US,88,44.0,California,Russian River Valley,Sonoma,Chardonnay,Freeman
+US,93,48.0,California,Napa Valley,Napa,Merlot,Shafer
+US,90,40.0,New York,Finger Lakes,Finger Lakes,Riesling,Bloomer Creek
+US,87,30.0,California,Russian River Valley,Sonoma,Chardonnay,The Gardener
+US,86,13.0,New York,Finger Lakes,Finger Lakes,Riesling,Wagner
+US,88,20.0,New York,Finger Lakes,Finger Lakes,Sauvignon Blanc,Dr. Konstantin Frank
+US,85,40.0,California,Paso Robles,Central Coast,Bordeaux-style Red Blend,Peachy Canyon
+US,86,29.0,California,Sonoma County,Sonoma,Zinfandel,Wilson
+US,92,45.0,Oregon,Willamette Valley,Willamette Valley,Chardonnay,Adelsheim
+US,87,18.0,New York,Finger Lakes,Finger Lakes,Chardonnay,Red Tail Ridge
+US,89,35.0,California,Paso Robles,Central Coast,Rhône-style White Blend,Adelaida
+US,95,40.0,California,Napa Valley,Napa,Cabernet Sauvignon,Vinifera
+US,91,38.0,Washington,Columbia Valley (WA),Columbia Valley,Bordeaux-style Red Blend,William Church
+US,94,95.0,Oregon,Eola-Amity Hills,Willamette Valley,Chardonnay,Bethel Heights
+US,90,30.0,Washington,Red Mountain,Columbia Valley,Counoise,Tamarack Cellars
+US,88,22.0,California,Napa Valley,Napa,Pinot Grigio,Benessere
+US,88,35.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Joullian
+US,83,20.0,California,Nevada County,Sierra Foothills,Sauvignon Blanc,Sierra Starr
+US,94,59.0,California,Sonoma Coast,Sonoma,Pinot Noir,Sojourn
+US,87,35.0,California,Sierra Foothills,Sierra Foothills,Syrah,Naggiar
+US,86,39.0,California,Russian River Valley,Sonoma,Pinot Noir,Churchill Cellars
+US,92,23.0,California,Sonoma Coast,Sonoma,Chardonnay,Sonoma-Cutrer
+US,88,25.0,California,Lodi,Central Valley,Petit Verdot,Grands Amis Winery
+US,93,125.0,California,Napa Valley,Napa,Cabernet Sauvignon,Patland
+US,88,25.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Elevation Cellars
+US,87,19.0,California,Carneros,Napa-Sonoma,Sauvignon Blanc,Tin Barn
+US,92,48.0,California,Carneros,Napa-Sonoma,Pinot Noir,Mira
+US,90,40.0,California,Russian River Valley,Sonoma,Pinot Noir,Sonoma-Loeb
+US,86,34.0,Oregon,McMinnville,Willamette Valley,Pinot Noir,Coeur de Terre
+US,90,50.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Pali
+US,93,35.0,Oregon,Dundee Hills,Willamette Valley,Chardonnay,Stoller
+US,91,80.0,California,Napa Valley,Napa,Cabernet Sauvignon,Robledo
+US,90,35.0,Oregon,Willamette Valley,Willamette Valley,Chardonnay,Martin Woods
+US,84,20.0,California,California,California Other,Sparkling Blend,Blanc de Bleu
+US,90,20.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Chehalem
+US,88,40.0,Washington,Yakima Valley,Columbia Valley,Mourvèdre,Kestrel
+US,88,40.0,Washington,Columbia Valley (WA),Columbia Valley,Malbec,William Church
+US,95,65.0,California,Spring Mountain District,Napa,Cabernet Sauvignon,Terra Valentine
+US,85,60.0,California,Santa Cruz Mountains,Central Coast,Cabernet Sauvignon,Martin Ranch
+US,93,65.0,California,Santa Ynez Valley,Central Coast,Syrah,Brave & Maiden
+US,91,45.0,California,Rutherford,Napa,Zinfandel,Edizione Pennino
+US,88,43.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Fullerton
+US,92,39.0,California,Livermore Valley,Central Coast,Zinfandel,Occasio
+US,88,20.0,California,Sonoma Valley,Sonoma,Merlot,St. Francis
+US,90,30.0,California,Mt. Harlan,Central Coast,Viognier,Calera
+US,93,65.0,California,Adelaida District,Central Coast,Bordeaux-style Red Blend,Daou
+US,90,28.0,Washington,Yakima Valley,Columbia Valley,Rhône-style Red Blend,McCrea
+US,84,24.0,California,Bennett Valley,Sonoma,Sémillon,Frostwatch
+US,90,36.0,California,Sonoma Valley,Sonoma,Alicante Bouschet,Carlisle
+US,84,30.0,Washington,Yakima Valley,Columbia Valley,Syrah,Northwest Totem Cellars
+US,92,40.0,California,Napa Valley,Napa,Cabernet Sauvignon,Clif Family
+US,88,30.0,California,Napa County,Napa,Cabernet Sauvignon,Girard
+US,82,17.0,California,Russian River Valley,Sonoma,Pinot Meunier,River Road
+US,86,20.0,Oregon,Oregon,Oregon Other,Red Blend,Maragas
+US,85,30.0,California,Carneros,Napa-Sonoma,Chardonnay,Luke Donald
+US,89,13.0,California,San Bernabe,Central Coast,Chardonnay,Noble Vines
+US,81,10.0,California,California,California Other,Merlot,Glen Ellen
+US,86,38.0,California,Sonoma Valley,Sonoma,Zinfandel,Haywood
+US,86,25.0,Oregon,Umpqua Valley,Southern Oregon,Tempranillo,Sweet Cheeks
+US,88,18.0,California,Napa Valley,Napa,Pinot Gris,Hendry
+US,91,55.0,California,Sonoma Mountain,Sonoma,Pinot Noir,Aiken
+US,90,28.0,California,Temecula Valley,South Coast,Chardonnay,Robert Renzoni
+US,83,18.0,California,California,California Other,Cabernet Sauvignon,Dewitt
+US,90,32.0,California,Sonoma Coast,Sonoma,Chardonnay,August Truth
+US,91,90.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Domaine Serene
+US,90,40.0,California,Carneros,Napa-Sonoma,Pinot Noir,August Briggs
+US,89,30.0,Washington,Horse Heaven Hills,Columbia Valley,Chardonnay,Chateau Ste. Michelle
+US,88,65.0,California,Oak Knoll District,Napa,Cabernet Sauvignon,Ideology
+US,90,35.0,California,Knights Valley,Sonoma,Cabernet Sauvignon,Gehricke
+US,88,15.0,California,Napa Valley,Napa,Sauvignon Blanc,Flint & Steel
+US,90,20.0,California,Santa Barbara County,Central Coast,Chardonnay,Rancho Sisquoc
+US,91,30.0,California,Arroyo Seco,Central Coast,Chardonnay,Joullian
+US,90,24.0,New York,North Fork of Long Island,Long Island,Sauvignon Blanc,Paumanok
+US,87,8.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,StoneCap
+US,92,65.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Longboard
+US,90,24.0,California,Sonoma Valley,Sonoma,Zinfandel,Kunde
+US,94,28.0,Washington,Red Mountain,Columbia Valley,Syrah,Tamarack Cellars
+US,93,22.0,California,Sonoma Coast,Sonoma,Sauvignon Blanc,Kenwood
+US,85,15.0,California,Dry Creek Valley,Sonoma,Merlot,Pedroncelli
+US,85,18.0,Washington,Washington,Washington Other,Chardonnay,Hedgeline
+US,96,80.0,California,Diamond Mountain District,Napa,Cabernet Sauvignon,Von Strasser
+US,86,25.0,California,Carneros,Napa-Sonoma,Chardonnay,Gloria Ferrer
+US,89,45.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Dunham
+US,90,19.0,California,Santa Barbara County,Central Coast,Bordeaux-style Red Blend,Kuyam
+US,93,130.0,California,Napa Valley,Napa,Chardonnay,Jarvis
+US,88,18.0,California,Napa Valley,Napa,Sauvignon Blanc,Markham
+US,90,32.0,California,Russian River Valley,Sonoma,Albariño,Marimar Estate
+US,90,55.0,California,Napa Valley,Napa,Chardonnay,Moone-Tsai
+US,83,10.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Eliseo Silva
+US,89,37.0,California,Napa Valley,Napa,Zinfandel,Frank Family
+US,87,40.0,California,Santa Barbara County,Central Coast,Rhône-style Red Blend,Epiphany
+US,86,21.0,California,Paso Robles,Central Coast,Grenache,Sextant
+US,87,45.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Aje
+US,88,16.0,California,Santa Barbara County,Central Coast,Chardonnay,Nielson by Byron
+US,92,20.0,Washington,Wahluke Slope,Columbia Valley,Sangiovese,Casa Smith
+US,89,22.0,California,El Dorado,Sierra Foothills,Zinfandel,Cedarville Vineyard
+US,90,35.0,New York,North Fork of Long Island,Long Island,Bordeaux-style Red Blend,Anthony Nappa
+US,84,25.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Lucas Vineyards
+US,81,26.0,California,Napa Valley,Napa,Red Blend,3 Spells
+US,86,34.0,California,Santa Barbara County,Central Coast,Grenache,j.brix
+US,83,20.0,California,Paso Robles,Central Coast,Red Blend,Graveyard
+US,87,38.0,California,Russian River Valley,Sonoma,Sparkling Blend,J Vineyards & Winery
+US,90,29.0,California,El Dorado,Sierra Foothills,Cabernet Sauvignon,Cedarville Vineyard
+US,85,19.0,California,Sonoma County,Sonoma,Merlot,Benziger
+US,85,50.0,California,Green Valley,Sonoma,Pinot Noir,Loring Wine Company
+US,87,24.0,California,Sonoma Coast,Sonoma,Pinot Noir,William Knuttel
+US,86,30.0,New York,North Fork of Long Island,Long Island,Chardonnay,Sherwood House Vineyards
+US,92,42.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Sineann
+US,89,45.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Flying Dreams
+US,87,13.0,Oregon,Oregon,Oregon Other,Pinot Blanc,A to Z
+US,90,45.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Willful
+US,85,60.0,California,Russian River Valley,Sonoma,Pinot Noir,Gary Farrell
+US,89,30.0,Washington,Columbia Valley (WA),Columbia Valley,Sangiovese,Forgeron
+US,84,13.0,California,North Coast,North Coast,Cabernet Sauvignon,Cartlidge & Browne
+US,89,14.0,New York,Finger Lakes,Finger Lakes,Riesling,Red Newt Cellars
+US,88,22.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Damiani
+US,91,25.0,Washington,Walla Walla Valley (WA),Columbia Valley,Sangiovese,Foundry Vineyards
+US,87,9.0,Washington,Columbia Valley (WA),Columbia Valley,Pinot Grigio,Hogue
+US,87,20.0,Washington,Columbia Valley (WA),Columbia Valley,Sangiovese,Wind Rose
+US,91,25.0,California,Napa Valley,Napa,Semillon-Sauvignon Blanc,Volker Eisele Family Estate
+US,89,55.0,California,Russian River Valley,Sonoma,Pinot Noir,Alysian
+US,87,35.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Des Voigne Cellars
+US,90,28.0,California,Monterey County,Central Coast,Grenache,Moxy
+US,90,75.0,California,St. Helena,Napa,Cabernet Sauvignon,Benessere
+US,88,15.0,California,California,California Other,Chardonnay,Popcorn
+US,92,55.0,California,Napa Valley,Napa,Merlot,La Jota Vineyard
+US,92,62.0,California,Central Coast,Central Coast,Cabernet Sauvignon,Brecon Estate
+US,86,12.0,Washington,Yakima Valley,Columbia Valley,Red Blend,Chandler Reach
+US,87,12.0,Oregon,Oregon,Oregon Other,Pinot Gris,Acrobat
+US,92,38.0,California,Central Coast,Central Coast,Garnacha,Bodega de Edgar
+US,86,42.0,California,Sonoma County,Sonoma,Cabernet Sauvignon,D'Argenzio
+US,80,14.0,Oregon,Oregon,Oregon Other,Pinot Noir,Amity
+US,86,32.0,California,Dry Creek Valley,Sonoma,Zinfandel,Wilson
+US,86,16.0,California,Paso Robles,Central Coast,Zinfandel,Ancient Peaks
+US,89,55.0,California,Sonoma County,Sonoma,Zinfandel,Beekeeper Cellars
+US,92,35.0,Washington,Red Mountain,Columbia Valley,Cabernet Sauvignon,Barrister
+US,89,30.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Guardian
+US,87,14.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Chateau Ste. Michelle
+US,84,25.0,California,Paso Robles,Central Coast,Red Blend,Minassian-Young
+US,91,50.0,California,Green Valley,Sonoma,Pinot Noir,Dutton Estate
+US,90,55.0,California,Santa Ynez Valley,Central Coast,Viognier,Rideau
+US,90,24.0,California,Dry Creek Valley,Sonoma,Zinfandel,Dashe Cellars
+US,87,14.0,New York,Finger Lakes,Finger Lakes,Riesling,Keuka Spring
+US,87,54.0,California,Sonoma Coast,Sonoma,Pinot Noir,Testarossa
+US,88,45.0,California,Paso Robles,Central Coast,Rhône-style Red Blend,Star Angel by Montes
+US,87,30.0,Oregon,Columbia Valley (OR),Oregon Other,Primitivo,Pheasant Valley Winery
+US,92,59.0,Washington,Washington,Washington Other,Cabernet Sauvignon,Woodward Canyon
+US,91,45.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Willful
+US,88,55.0,California,Napa Valley,Napa,Cabernet Sauvignon,Antica
+US,85,20.0,California,Russian River Valley,Sonoma,Sauvignon Blanc,Dutton Estate
+US,92,49.0,California,Sonoma Coast,Sonoma,Pinot Noir,Williams Selyem
+US,85,18.0,California,California,California Other,Merlot,The Naked Grape
+US,91,40.0,Oregon,Eola-Amity Hills,Willamette Valley,Pinot Noir,Soléna
+US,85,16.0,California,Lodi,Central Valley,Zinfandel,Seven Deadly Zins
+US,95,105.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Cayuse
+US,82,28.0,California,Sonoma Valley,Sonoma,Chardonnay,Haywood
+US,89,28.0,Washington,Yakima Valley,Columbia Valley,Chardonnay,Sleight of Hand
+US,85,16.0,Washington,Washington,Washington Other,Syrah,Boomtown
+US,88,38.0,California,Russian River Valley,Sonoma,Pinot Noir,Migration
+US,91,20.0,Washington,Horse Heaven Hills,Columbia Valley,Petite Sirah,Thurston Wolfe
+US,88,55.0,Washington,Yakima Valley,Columbia Valley,Riesling,Pacific Rim
+US,88,93.0,California,California,California Other,Red Blend,Sunstone
+US,85,18.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Chateau Ste. Michelle
+US,87,20.0,Washington,Walla Walla Valley (WA),Columbia Valley,Marsanne,Tertulia
+US,84,15.0,Washington,Horse Heaven Hills,Columbia Valley,Cabernet Sauvignon,Canoe Ridge
+US,86,30.0,California,Solano County,North Coast,Syrah,Putah Creek
+US,86,9.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Barnard Griffin
+US,82,29.0,California,Paso Robles,Central Coast,Red Blend,River Star
+US,88,30.0,California,South Coast,South Coast,Red Blend,Carter Estate
+US,86,14.0,California,Central Coast,Central Coast,Cabernet Sauvignon,Cupcake
+US,93,70.0,California,Sonoma Coast,Sonoma,Pinot Noir,Patz & Hall
+US,88,17.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Chateau Ste. Michelle
+US,91,55.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Aubichon Cellars
+US,94,95.0,California,Santa Cruz Mountains,Central Coast,Bordeaux-style Red Blend,Lexington
+US,92,45.0,California,Howell Mountain,Napa,Zinfandel,Summit Lake
+US,93,500.0,California,Rutherford,Napa,Cabernet Sauvignon,Hewitt
+US,86,35.0,Washington,Walla Walla Valley (WA),Columbia Valley,Tempranillo,Tertulia
+US,85,18.0,California,Napa Valley,Napa,Grenache Blanc,Somerston
+US,87,33.0,California,Napa Valley,Napa,Pinot Gris,Mendelson
+US,94,40.0,California,Sonoma Coast,Sonoma,Chardonnay,Fort Ross
+US,86,160.0,California,Napa Valley,Napa,Cabernet Sauvignon,Summers
+US,93,32.0,California,Paso Robles,Central Coast,Red Blend,Derby
+US,91,30.0,California,Napa Valley,Napa,Sauvignon Blanc,Little Giant
+US,91,23.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Harmony Cellars
+US,90,26.0,California,Carneros,Napa-Sonoma,White Blend,Paro
+US,87,55.0,California,Russian River Valley,Sonoma,Chardonnay,Landmark
+US,83,24.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Tangley Oaks
+US,85,15.0,New York,Finger Lakes,Finger Lakes,Sauvignon Blanc,White Springs
+US,95,55.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Tantara
+US,85,55.0,California,California,California Other,Red Blend,Keating
+US,88,18.0,California,Napa Valley,Napa,Sauvignon Blanc,Voss
+US,90,20.0,California,Paso Robles,Central Coast,Zinfandel,Maddalena
+US,96,45.0,Washington,Snipes Mountain,Columbia Valley,Rhône-style Red Blend,Maison Bleue
+US,87,52.0,California,Sonoma Coast,Sonoma,Pinot Noir,Keller Estate
+US,84,6.0,California,California,California Other,Sauvignon Blanc,Woodbridge
+US,92,54.0,California,Napa Valley,Napa,Red Blend,Blackbird Vineyards
+US,87,24.0,Washington,Columbia Valley (WA),Columbia Valley,Zinfandel,Animale
+US,93,115.0,California,Russian River Valley,Sonoma,Sparkling Blend,J Vineyards & Winery
+US,92,60.0,California,Adelaida District,Central Coast,Rhône-style Red Blend,The Farm Winery
+US,94,25.0,California,Sonoma Coast,Sonoma,Gewürztraminer,Gundlach Bundschu
+US,91,40.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Bernardus
+US,85,25.0,Washington,Columbia Valley (WA),Columbia Valley,Barbera,Ryan Patrick
+US,89,45.0,Washington,Yakima Valley,Columbia Valley,Syrah,Doyenne
+US,89,18.0,Washington,Yakima Valley,Columbia Valley,Red Blend,Kana
+US,87,40.0,California,Sonoma County,Sonoma,Cabernet Sauvignon,Hidden Ridge
+US,86,18.0,New York,Finger Lakes,Finger Lakes,Riesling,McGregor
+US,87,25.0,California,Paso Robles,Central Coast,Zinfandel,J. Lohr
+US,88,20.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Cascade Ridge
+US,90,38.0,California,Napa County,Napa,Chardonnay,Spicy Vines
+US,90,18.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Lemelson
+US,87,23.0,Washington,Columbia Valley (WA),Columbia Valley,Barbera,Patterson
+US,83,45.0,California,Napa Valley,Napa,Shiraz,Grizzly Republic
+US,87,26.0,California,Dry Creek Valley,Sonoma,Counoise,Frick
+US,90,90.0,California,Napa Valley,Napa,Cabernet Sauvignon,Sequoia Grove
+US,87,40.0,California,Livermore Valley,Central Coast,Petit Verdot,Murrieta's Well
+US,89,24.0,California,Napa Valley,Napa,Zinfandel,Girard
+US,91,32.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Adelsheim
+US,91,35.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,àMaurice
+US,91,28.0,California,Napa Valley,Napa,Chardonnay,Hindsight
+US,86,24.0,California,Paso Robles,Central Coast,Rosé,Proulx
+US,90,48.0,Washington,Columbia Valley (WA),Columbia Valley,Petit Verdot,Sineann
+US,90,28.0,California,Paso Robles Willow Creek District,Central Coast,Viognier,Four Lanterns
+US,91,60.0,California,Santa Cruz Mountains,Central Coast,Pinot Noir,Black Ridge
+US,94,70.0,California,Russian River Valley,Sonoma,Chardonnay,Lynmar
+US,90,26.0,California,Sonoma County,Sonoma,Chardonnay,Geyser Peak
+US,92,75.0,California,Sonoma Coast,Sonoma,Chardonnay,Joseph Phelps
+US,80,36.0,California,Central Coast,Central Coast,Chardonnay,Jack Creek
+US,85,15.0,California,Sonoma County,Sonoma,Zinfandel,Kenwood
+US,91,50.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Northstar
+US,91,15.0,Washington,Yakima Valley,Columbia Valley,Riesling,Mercer
+US,91,45.0,Washington,Red Mountain,Columbia Valley,Mourvèdre,Syncline
+US,96,450.0,California,Sonoma County,Sonoma,Bordeaux-style Red Blend,Verité
+US,92,50.0,Washington,Walla Walla Valley (WA),Columbia Valley,Cabernet Sauvignon,Spring Valley Vineyard
+US,88,25.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Andrew Rich
+US,87,30.0,California,Rutherford,Napa,Merlot,Trinchero
+US,92,20.0,California,Santa Ynez Valley,Central Coast,Rhône-style White Blend,Zaca Mesa
+US,86,30.0,Washington,Ancient Lakes,Columbia Valley,Cabernet Sauvignon,Jones of Washington
+US,92,25.0,California,Santa Ynez Valley,Central Coast,Semillon-Sauvignon Blanc,Brander
+US,86,32.0,California,Santa Lucia Highlands,Central Coast,G-S-M,Hahn
+US,96,64.0,Washington,Red Mountain,Columbia Valley,Red Blend,Andrew Will
+US,87,35.0,California,Santa Barbara County,Central Coast,Syrah,Brander
+US,91,29.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Flying Trout
+US,91,18.0,California,Dry Creek Valley,Sonoma,Sauvignon Blanc,Dry Creek Vineyard
+US,91,40.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Va Piano
+US,84,35.0,Washington,Horse Heaven Hills,Columbia Valley,Pinot Noir,Almquist
+US,86,22.0,New York,"The Hamptons, Long Island",Long Island,Trebbiano,Wölffer
+US,91,40.0,Washington,Red Mountain,Columbia Valley,Rhône-style Red Blend,Kiona
+US,83,34.0,California,York Mountain,Central Coast,Cabernet Sauvignon,Calcareous
+US,91,34.0,California,Santa Barbara County,Central Coast,Syrah,Rendarrio Vineyards
+US,92,26.0,California,Santa Maria Valley,Central Coast,Chardonnay,Byron
+US,86,22.0,California,Napa Valley,Napa,Bordeaux-style White Blend,Pure Cru
+US,85,48.0,California,Knights Valley,Sonoma,Bordeaux-style Red Blend,Ehret
+US,89,18.0,Oregon,Oregon,Oregon Other,Tempranillo,Oregon Territory
+US,84,10.0,California,California,California Other,Pinot Grigio,Big House
+US,91,35.0,California,Santa Maria Valley,Central Coast,Nebbiolo,Clendenen
+US,88,22.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Chatter Creek
+US,89,32.0,California,Napa Valley,Napa,Meritage,Raymond
+US,94,60.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Saviah
+US,88,27.0,California,Paso Robles,Central Coast,Red Blend,Four Sisters Ranch
+US,85,16.0,Washington,Columbia Valley (WA),Columbia Valley,Gewürztraminer,RiverAerie
+US,87,14.0,New York,Finger Lakes,Finger Lakes,Riesling,Lucas Vineyards
+US,91,28.0,California,Santa Cruz Mountains,Central Coast,Chardonnay,Sarah's Vineyard
+US,88,29.0,Oregon,Eola-Amity Hills,Willamette Valley,Pinot Noir,Cherry Hill
+US,87,16.0,California,Sierra Foothills,Sierra Foothills,Red Blend,Irwin Family Vineyards
+US,88,25.0,California,Sonoma Coast,Sonoma,Chardonnay,Amici
+US,90,45.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Barons
+US,91,30.0,California,Russian River Valley,Sonoma,Chardonnay,J Vineyards & Winery
+US,87,12.0,New York,Finger Lakes,Finger Lakes,Chardonnay,Standing Stone
+US,86,30.0,California,Sonoma County,Sonoma,Cabernet Sauvignon,Magistrate
+US,90,28.0,Oregon,Applegate Valley,Southern Oregon,Zinfandel,Troon
+US,86,30.0,California,Napa Valley,Napa,Sauvignon Blanc,Duckhorn
+US,92,50.0,Oregon,Willamette Valley,Willamette Valley,Chardonnay,Domaine Divio
+US,90,30.0,California,Carneros,Napa-Sonoma,Chardonnay,Truchard
+US,93,60.0,California,Russian River Valley,Sonoma,Chardonnay,Chasseur
+US,86,20.0,California,Monterey,Central Coast,Chardonnay,Cinnabar
+US,94,60.0,California,Napa Valley,Napa,Sparkling Blend,Mumm Napa
+US,87,14.0,New York,New York,New York Other,Riesling,Heron Hill
+US,89,19.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,McIntyre Vineyards
+US,85,35.0,California,Santa Barbara County,Central Coast,Pinot Noir,Summerland
+US,92,25.0,California,Adelaida District,Central Coast,Pinot Noir,Adelaida
+US,87,21.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Three Rivers
+US,90,20.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Mercer
+US,93,38.0,California,Dry Creek Valley,Sonoma,Zinfandel,Seghesio
+US,87,20.0,California,Monterey,Central Coast,Pinot Gris,La Crema
+US,95,45.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Roar
+US,92,45.0,California,Russian River Valley,Sonoma,Syrah,Longboard
+US,87,35.0,California,Paicines,Central Coast,Cabernet Sauvignon,Donati
+US,84,13.0,California,Russian River Valley,Sonoma,Pinot Noir,Bogle
+US,88,26.0,California,Lodi,Central Valley,Riesling,Meadowcroft
+US,83,10.0,New York,Finger Lakes,Finger Lakes,Rosé,Chateau Lafayette Reneau
+US,87,27.0,California,Lodi,Central Valley,Charbono,Paskett
+US,84,14.0,Oregon,Oregon,Oregon Other,Chardonnay,Wine by Joe
+US,86,12.0,California,California,California Other,Moscato,Rose 'N' Blum
+US,89,25.0,California,Sierra Foothills,Sierra Foothills,Rhône-style White Blend,Terre Rouge
+US,86,23.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Rooster Hill
+US,88,25.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Canoe Ridge
+US,88,36.0,California,Livermore Valley,Central Coast,Syrah,Page Mill Winery
+US,95,44.0,California,Green Valley,Sonoma,Sparkling Blend,Iron Horse
+US,91,38.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Morgan
+US,92,42.0,California,Santa Cruz Mountains,Central Coast,Pinot Noir,Clos de la Tech
+US,90,27.0,California,El Dorado,Sierra Foothills,Petite Sirah,Cedarville Vineyard
+US,92,42.0,California,Dry Creek Valley,Sonoma,Zinfandel,Quivira
+US,87,55.0,California,Napa Valley,Napa,Port,Prager
+US,89,20.0,Washington,Columbia Gorge (WA),Washington Other,Grüner Veltliner,Syncline
+US,94,48.0,California,Russian River Valley,Sonoma,Chardonnay,Parallel
+US,89,22.0,California,Santa Maria Valley,Central Coast,Chardonnay,Cambria
+US,88,30.0,California,Paso Robles,Central Coast,Viognier,Ranchero Cellars
+US,91,34.0,Washington,Wahluke Slope,Columbia Valley,Tempranillo,Kerloo
+US,88,35.0,Washington,Columbia Valley (WA),Columbia Valley,Malbec,Ded.Reckoning
+US,93,49.0,California,Mount Veeder,Napa,Cabernet Sauvignon,V. Sattui
+US,93,55.0,California,Santa Maria Valley,Central Coast,Chardonnay,Migration
+US,90,35.0,Washington,Horse Heaven Hills,Columbia Valley,Cabernet Franc,Columbia Winery
+US,89,50.0,California,Napa Valley,Napa,Scheurebe,Joseph Phelps
+US,87,35.0,California,Carmel Valley,Central Coast,Syrah,Joullian
+US,86,11.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Purple Cowboy
+US,86,33.0,California,California,California Other,Grenache,Melée
+US,86,59.0,California,Lodi,Central Valley,Cabernet Sauvignon,The Dancing Fox
+US,85,24.0,California,Sonoma,Sonoma,Pinot Noir,MacMurray Ranch
+US,88,36.0,California,Dry Creek Valley,Sonoma,Petite Sirah,Byington
+US,93,48.0,California,Ballard Canyon,Central Coast,Grenache,Beckmen
+US,91,22.0,California,Napa County,Napa,Sparkling Blend,Mumm Napa
+US,89,20.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Treos
+US,86,19.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Chateau Lafayette Reneau
+US,88,44.0,Washington,Columbia Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Efeste
+US,87,13.0,New York,Finger Lakes,Finger Lakes,Riesling,Lamoreaux Landing
+US,90,38.0,California,Russian River Valley,Sonoma,Pinot Noir,Rally Point Wines
+US,84,25.0,California,Dry Creek Valley,Sonoma,Cabernet Sauvignon,Plungerhead
+US,87,65.0,California,Santa Ynez Valley,Central Coast,Cabernet Sauvignon,Coghlan
+US,86,26.0,California,Sonoma County,Sonoma,Chardonnay,Geyser Peak
+US,87,20.0,California,California,California Other,Malbec,Vin Vault
+US,83,9.0,California,California,California Other,Sauvignon Blanc,Buffalo Grove
+US,92,38.0,California,Santa Ynez Valley,Central Coast,Syrah,Larner
+US,92,80.0,California,Sierra Foothills,Sierra Foothills,Syrah,Domaine de la Terre Rouge
+US,96,100.0,California,Russian River Valley,Sonoma,Pinot Noir,J. Rochioli
+US,89,19.0,California,Santa Maria Valley,Central Coast,Syrah,Cambria
+US,82,12.0,California,California,California Other,Cabernet Sauvignon,Congress Springs
+US,87,12.0,California,California,California Other,Cabernet Sauvignon,Geyser Peak
+US,89,38.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Damsel
+US,92,64.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Testarossa
+US,91,50.0,California,Russian River Valley,Sonoma,Pinot Noir,Corner 103
+US,90,45.0,Washington,Red Mountain,Columbia Valley,Cabernet Sauvignon,Januik
+US,91,37.0,California,Santa Maria Valley,Central Coast,Chardonnay,Foxen
+US,86,13.0,California,Santa Barbara County,Central Coast,Chardonnay,Cameron Hughes
+US,88,15.0,Washington,Yakima Valley,Columbia Valley,Syrah,Columbia Winery
+US,92,40.0,California,Russian River Valley,Sonoma,Chardonnay,J Vineyards & Winery
+US,83,55.0,California,Napa Valley,Napa,Red Blend,Tiedemann
+US,86,24.0,California,El Dorado County,Sierra Foothills,Syrah,Morse
+US,86,35.0,California,Paso Robles,Central Coast,Malbec,Clayhouse
+US,90,25.0,California,Sonoma Valley,Sonoma,Zinfandel,Wellington
+US,86,25.0,California,Edna Valley,Central Coast,Albariño,Bodegas M
+US,90,40.0,California,Napa Valley,Napa,Red Blend,Hess Collection
+US,93,85.0,California,Napa Valley,Napa,Cabernet Sauvignon,Les Belles Collines
+US,91,58.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Tenor
+US,89,49.0,California,Santa Cruz Mountains,Central Coast,Bordeaux-style Red Blend,Black Ridge
+US,92,50.0,California,Sonoma Coast,Sonoma,Pinot Noir,Pahlmeyer
+US,87,25.0,Oregon,Applegate Valley,Southern Oregon,Cabernet Franc,Plaisance Ranch
+US,87,21.0,California,Paso Robles,Central Coast,Red Blend,Tower 15
+US,88,42.0,California,Napa Valley,Napa,Cabernet Franc,Markham
+US,88,35.0,Washington,Yakima Valley,Columbia Valley,Cabernet Sauvignon,Telaya
+US,88,25.0,California,Monterey,Central Coast,Pinot Noir,Fog Head
+US,91,35.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Le Vigne
+US,84,20.0,California,Paso Robles,Central Coast,Red Blend,Wild Coyote
+US,91,35.0,California,Livermore Valley,Central Coast,Cabernet Sauvignon,Entropy Cellars
+US,92,40.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Rendarrio Vineyards
+US,88,20.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Helix by Reininger
+US,94,70.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Domaine Serene
+US,89,45.0,Washington,Columbia Gorge (WA),Washington Other,Chardonnay,Ashan
+US,91,50.0,Washington,Columbia Valley (WA),Columbia Valley,Rhône-style Red Blend,Rasa
+US,87,38.0,California,Russian River Valley,Sonoma,Pinot Noir,Ketcham Estate
+US,93,90.0,California,Stags Leap District,Napa,Petite Sirah,Stags' Leap Winery
+US,90,20.0,New York,Finger Lakes,Finger Lakes,Chardonnay,Hazlitt 1852 Vineyards
+US,89,35.0,Washington,Walla Walla Valley (WA),Columbia Valley,Malbec,Bunchgrass
+US,94,90.0,California,Mt. Harlan,Central Coast,Pinot Noir,Calera
+US,90,125.0,California,Oakville,Napa,Cabernet Sauvignon,Provenance Vineyards
+US,93,35.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Sokol Blosser
+US,88,24.0,California,Lodi,Central Valley,Syrah,Fields Family
+US,85,35.0,California,Sonoma County,Sonoma,Petite Sirah,Prospero
+US,91,30.0,California,Russian River Valley,Sonoma,Pinot Noir,Marimar Torres
+US,87,19.0,California,Alexander Valley,Sonoma,Merlot,Geyser Peak
+US,87,30.0,California,Sonoma Coast,Sonoma,Pinot Gris,Keller Estate
+US,91,35.0,California,California,California Other,Cabernet Sauvignon,Enkidu
+US,89,18.0,California,Central Coast,Central Coast,Chardonnay,Broadside
+US,86,18.0,California,Lodi,Central Valley,White Blend,Incognito
+US,84,10.0,California,California,California Other,Zinfandel,Dancing Bull
+US,90,19.0,California,Napa Valley,Napa,Sparkling Blend,Mumm Napa
+US,84,26.0,California,Napa Valley,Napa,Merlot,White Oak
+US,85,29.0,California,Santa Barbara County,Central Coast,Pinot Noir,Anonymous
+US,87,100.0,California,Rutherford,Napa,Cabernet Sauvignon,Nickel & Nickel
+US,84,34.0,California,Santa Barbara County,Central Coast,Sangiovese-Syrah,Scott Cellars
+US,88,38.0,California,Sonoma Coast,Sonoma,Chardonnay,La Follette
+US,88,24.0,California,Santa Barbara County,Central Coast,Riesling,Fess Parker
+US,88,42.0,California,Happy Canyon of Santa Barbara,Central Coast,Sauvignon Blanc,Dragonette
+US,91,39.0,Washington,Walla Walla Valley (WA),Columbia Valley,Merlot,Reininger
+US,93,44.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,a-non-ah-mus
+US,91,9.0,Washington,Columbia Valley (WA),Columbia Valley,Riesling,Chateau Ste. Michelle
+US,90,35.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Matias Wines
+US,87,25.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Rooster Hill
+US,91,40.0,California,Sta. Rita Hills,Central Coast,Syrah,Lafond
+US,90,12.0,Washington,Columbia Valley (WA),Columbia Valley,Rosé,Charles & Charles
+US,90,20.0,California,Sonoma County,Sonoma,Pinot Noir,Bruliam
+US,88,40.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Seufert
+US,91,25.0,California,Lodi,Central Valley,Cabernet Sauvignon,Mettler Family Vineyards
+US,86,16.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Sagelands
+US,86,28.0,California,Livermore Valley,Central Coast,Pinot Grigio,Las Positas
+US,89,16.0,New York,Seneca Lake,Finger Lakes,Riesling,Atwater
+US,86,20.0,California,Santa Ynez Valley,Central Coast,Syrah,Santa Barbara Winery
+US,90,34.0,California,Paso Robles,Central Coast,Syrah,Écluse
+US,90,50.0,California,Russian River Valley,Sonoma,Pinot Noir,Joseph Jewell
+US,91,45.0,California,Santa Cruz Mountains,Central Coast,Pinot Noir,Byington
+US,88,45.0,California,Santa Cruz Mountains,Central Coast,Chardonnay,Black Ridge
+US,90,22.0,California,Monterey County,Central Coast,Chardonnay,Le P'tit Paysan
+US,85,12.0,California,California,California Other,Moscato,Martin & Weyrich
+US,88,20.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Purple Heart Wines
+US,88,20.0,California,Sonoma County,Sonoma,Chardonnay,Decoy
+US,91,60.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Winderlea
+US,84,24.0,Washington,Walla Walla Valley (WA),Columbia Valley,Malbec,Righteous
+US,93,60.0,California,Ballard Canyon,Central Coast,Syrah,Kimsey
+US,92,36.0,California,Russian River Valley,Sonoma,Pinot Noir,Joseph Swan Vineyards
+US,84,12.0,California,Lodi,Central Valley,Chardonnay,Peirano
+US,87,15.0,California,Monterey County,Central Coast,Chardonnay,No
+US,92,35.0,Washington,Yakima Valley,Columbia Valley,Syrah,Syncline
+US,93,36.0,California,California,California Other,Red Blend,Big Basin
+US,92,30.0,California,San Luis Obispo County,Central Coast,Pinot Noir,Sinor-LaVallee
+US,88,30.0,Washington,Columbia Valley (WA),Columbia Valley,Grenache,Ocelli
+US,93,199.0,California,Napa Valley,Napa,Cabernet Sauvignon,Tobacco Road
+US,92,37.0,California,Dry Creek Valley,Sonoma,Zinfandel,Carlisle
+US,87,16.0,California,Lodi,Central Valley,Zinfandel,Seven Deadly Zins
+US,88,35.0,California,Napa Valley,Napa,Zinfandel,Grgich Hills
+US,90,14.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Lujon
+US,95,70.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Tantara
+US,93,52.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,St. Francis
+US,88,45.0,California,Santa Barbara County,Central Coast,Syrah,Nagy
+US,85,30.0,California,Santa Cruz Mountains,Central Coast,Chardonnay,Russian Ridge
+US,90,48.0,California,Napa Valley,Napa,Merlot,Shafer
+US,92,56.0,California,Yorkville Highlands,North Coast,Pinot Noir,Williams Selyem
+US,88,40.0,California,El Dorado,Sierra Foothills,Syrah,Donkey & Goat
+US,85,20.0,Washington,Red Mountain,Columbia Valley,Syrah,Murray
+US,89,24.0,Washington,Horse Heaven Hills,Columbia Valley,Merlot,Chateau Ste. Michelle
+US,86,16.0,California,Temecula Valley,South Coast,Sauvignon Blanc,South Coast
+US,91,95.0,California,Rutherford,Napa,Cabernet Sauvignon,Keating
+US,88,53.0,California,Napa Valley,Napa,Cabernet Sauvignon,Stags' Leap Winery
+US,96,70.0,California,Russian River Valley,Sonoma,Pinot Noir,Lynmar
+US,94,175.0,California,Napa Valley,Napa,Red Blend,Pahlmeyer
+US,90,32.0,California,Russian River Valley,Sonoma,Chardonnay,MacRostie
+US,91,35.0,California,Marin County,North Coast,Pinot Noir,Kendric
+US,87,36.0,California,Napa Valley,Napa,Merlot,Silenus
+US,93,70.0,California,Sonoma County-Napa County,Napa-Sonoma,Cabernet Franc,Pride Mountain
+US,91,45.0,California,Carneros,Napa-Sonoma,Chardonnay,Bennett Lane
+US,84,14.0,California,California,California Other,White Blend,Apothic
+US,91,30.0,Washington,Washington,Washington Other,Red Blend,Walla Walla Vintners
+US,91,19.0,Washington,Columbia Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Elevation Cellars
+US,94,70.0,California,Russian River Valley,Sonoma,Pinot Noir,Della
+US,87,26.0,Oregon,Rogue Valley,Southern Oregon,Tempranillo-Garnacha,Jaxon
+US,88,25.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Santa Barbara Winery
+US,91,30.0,California,Lodi,Central Valley,Zinfandel,Klinker Brick
+US,90,34.0,Washington,Yakima Valley,Columbia Valley,Red Blend,Brian Carter Cellars
+US,88,16.0,California,Napa Valley,Napa,Sauvignon Blanc,Frog's Leap
+US,92,28.0,California,Mt. Harlan,Central Coast,Chardonnay,Calera
+US,91,45.0,Washington,Columbia Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Dusted Valley
+US,92,45.0,California,Russian River Valley,Sonoma,Syrah-Tempranillo,Marimar Estate
+US,93,46.0,California,Santa Barbara County,Central Coast,Pinot Noir,Enticer
+US,90,28.0,California,Napa Valley,Napa,Merlot,Whitehall Lane
+US,90,90.0,California,Napa Valley,Napa,Cabernet Sauvignon,B Cellars
+US,85,16.0,California,Sonoma County,Sonoma,Pinot Noir,Courtney Benham
+US,85,30.0,California,Dry Creek Valley,Sonoma,Grenache,Unti
+US,90,55.0,California,Napa Valley,Napa,Cabernet Sauvignon,Bell
+US,86,15.0,California,Lodi,Central Valley,Zinfandel,R35
+US,89,60.0,California,Napa Valley,Napa,Cabernet Sauvignon,The Terraces
+US,88,23.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc-Semillon,Cadaretta
+US,85,33.0,California,Paso Robles,Central Coast,Bordeaux-style Red Blend,Martin & Weyrich
+US,88,15.0,New York,Finger Lakes,Finger Lakes,Gewürztraminer,Lakewood
+US,85,42.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Middle Ridge
+US,92,50.0,California,Mount Veeder,Napa,Cabernet Sauvignon,Hess Collection
+US,87,25.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Ancestry
+US,89,32.0,California,Sta. Rita Hills,Central Coast,Syrah,Kessler-Haak
+US,89,27.0,California,Carneros-Napa Valley,Napa,Pinot Noir,Acacia
+US,82,40.0,California,Russian River Valley,Sonoma,Pinot Noir,La Crema
+US,87,18.0,California,Sta. Rita Hills,Central Coast,Pinot Gris,Carr
+US,87,45.0,California,Sonoma Valley,Sonoma,Cabernet Sauvignon,Y Rousseau
+US,92,45.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Scott Paul
+US,90,39.0,California,Livermore Valley,Central Coast,Cabernet Sauvignon,McGrail
+US,93,95.0,California,Napa Valley,Napa,Cabernet Sauvignon,Darioush
+US,91,50.0,California,Carneros,Napa-Sonoma,Chardonnay,Nickel & Nickel
+US,90,35.0,California,Monterey,Central Coast,Pinot Noir,Wrath
+US,90,32.0,Washington,Columbia Valley (WA),Columbia Valley,Malbec,Patterson
+US,89,50.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Amalie Robert
+US,91,24.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,King Estate
+US,91,45.0,California,Napa Valley,Napa,Petite Sirah,Spellbound
+US,86,16.0,California,Napa Valley,Napa,Chenin Blanc,Ballentine
+US,89,36.0,California,Amador County,Sierra Foothills,Red Blend,Fiddletown Cellars
+US,93,50.0,California,Russian River Valley,Sonoma,Pinot Noir,Siduri
+US,89,34.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Erath
+US,91,32.0,California,Paso Robles,Central Coast,Grenache,Grey Wolf Cellars
+US,85,12.0,California,California,California Other,Cabernet Sauvignon,Pennywise
+US,90,12.0,California,California,California Other,Pinot Noir,Bogle
+US,89,24.0,Washington,Horse Heaven Hills,Columbia Valley,Rosé,Columbia Winery
+US,94,68.0,California,Russian River Valley,Sonoma,Chardonnay,Rochioli
+US,85,39.0,California,Suisun Valley,North Coast,Red Blend,Vezer Family Vineyard
+US,90,19.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Three Rivers
+US,87,13.0,California,Sonoma County,Sonoma,Chardonnay,Lyeth
+US,93,100.0,California,Diamond Mountain District,Napa,Bordeaux-style Red Blend,Von Strasser
+US,88,18.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Three Rivers
+US,90,22.0,California,Dunnigan Hills,Central Valley,Red Blend,Tinto Rey
+US,87,45.0,California,Temecula Valley,South Coast,Zinfandel,Lorenzi Estate
+US,90,25.0,California,Napa Valley,Napa,Cabernet Sauvignon,B Side
+US,87,30.0,Washington,Red Mountain,Columbia Valley,Merlot,Hightower
+US,82,24.0,California,Central Coast,Central Coast,Chardonnay,Monthaven
+US,91,34.0,California,Russian River Valley,Sonoma,Pinot Noir,Peter Paul Wines
+US,86,24.0,California,Calaveras County,Sierra Foothills,Zinfandel,Newsome-Harlow
+US,91,40.0,Washington,Red Mountain,Columbia Valley,Red Blend,Soos Creek
+US,91,40.0,California,Central Coast,Central Coast,Rhône-style Red Blend,Comartin
+US,84,13.0,California,Lodi,Central Valley,Cabernet Sauvignon,Cable Car
+US,84,8.0,California,California,California Other,Sauvignon Blanc,Woodbridge by Robert Mondavi
+US,86,23.0,California,North Coast,North Coast,Cabernet Sauvignon-Merlot,Surh Luchtel
+US,87,15.0,California,Napa Valley,Napa,Chardonnay,Dominican Oaks
+US,91,44.0,California,Russian River Valley,Sonoma,Pinot Noir,Dutton-Goldfield
+US,87,52.0,California,Calistoga,Napa,Cabernet Sauvignon,Zahtila
+US,82,10.0,California,California,California Other,Pinot Grigio,Jenica Peak
+US,90,54.0,California,Napa Valley,Napa,Merlot,Cakebread
+US,87,25.0,New York,Finger Lakes,Finger Lakes,Cabernet Sauvignon,Atwater
+US,83,26.0,California,Alexander Valley,Sonoma,Merlot,Sebastiani
+US,91,60.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Rasa
+US,86,17.0,California,Sonoma County,Sonoma,Chardonnay,Stephen Vincent
+US,88,23.0,California,Sierra Foothills,Sierra Foothills,Grenache,Naggiar
+US,91,42.0,California,Dry Creek Valley,Sonoma,Cabernet Sauvignon,Sbragia
+US,88,18.0,Washington,Yakima Valley,Columbia Valley,Red Blend,Airfield Estates
+US,82,13.0,New York,Finger Lakes,Finger Lakes,Chardonnay,Lucas Vineyards
+US,84,18.0,Washington,Wahluke Slope,Columbia Valley,Merlot,Desert Wind
+US,92,21.0,California,Santa Barbara-Monterey,North Coast,Chardonnay,Kendall-Jackson
+US,90,18.0,New York,Finger Lakes,Finger Lakes,Riesling,Anthony Nappa
+US,93,64.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Foxen
+US,86,35.0,California,Sonoma Valley,Sonoma,Merlot,Korbin Kameron
+US,90,38.0,California,Dry Creek Valley,Sonoma,Petite Sirah,Wilson
+US,91,20.0,Washington,Yakima Valley,Columbia Valley,Riesling,Apex
+US,91,60.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Sokol Blosser
+US,88,80.0,Washington,Red Mountain,Columbia Valley,Cabernet Sauvignon,Gorman
+US,91,37.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Timothy Malone
+US,86,28.0,California,Clements Hills,Central Valley,Graciano,Riaza
+US,88,20.0,California,Amador County,Sierra Foothills,Red Blend,Andis
+US,80,14.0,California,California,California Other,Cabernet Sauvignon,Heavyweight
+US,92,50.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Spring Valley Vineyard
+US,93,42.0,California,El Pomar District,Central Coast,Cabernet Sauvignon,Sextant
+US,90,55.0,California,Napa Valley,Napa,Red Blend,Jacob Franklin
+US,86,40.0,California,Napa Valley,Napa,Sparkling Blend,Schramsberg
+US,91,75.0,California,Oak Knoll District,Napa,Bordeaux-style Red Blend,Trefethen
+US,87,22.0,California,Oak Knoll District,Napa,Chardonnay,Materra Cunat Family Vineyards
+US,85,20.0,California,Amador County,Sierra Foothills,Zinfandel,Medusa
+US,92,55.0,Oregon,Oregon,Oregon Other,Pinot Noir,King Estate
+US,90,45.0,California,Russian River Valley,Sonoma,Pinot Noir,Windsor Oaks
+US,91,55.0,California,Calistoga,Napa,Petite Sirah,Chase
+US,89,45.0,Washington,Red Mountain,Columbia Valley,Cabernet Sauvignon,Seven Hills
+US,88,29.0,Washington,Yakima Valley,Columbia Valley,Chardonnay,Dusted Valley
+US,91,23.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Novelty Hill
+US,88,16.0,Washington,Rattlesnake Hills,Columbia Valley,Syrah,Roza Ridge
+US,90,24.0,California,Fort Ross-Seaview,Sonoma,Pinot Noir,Fort Ross
+US,85,40.0,California,Sonoma County,Sonoma,Grenache-Syrah,Donelan
+US,85,9.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Covey Run
+US,87,39.0,Washington,Walla Walla Valley (WA),Columbia Valley,Cabernet Sauvignon,Three Rivers
+US,90,42.0,California,Dry Creek Valley,Sonoma,Zinfandel,Papapietro Perry
+US,86,10.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Merlot,Snoqualmie
+US,88,43.0,California,California,California Other,Red Blend,Bel Vino
+US,88,20.0,California,Sierra Foothills,Sierra Foothills,Cabernet Franc,Ironstone
+US,82,15.0,California,Paso Robles,Central Coast,Chardonnay,Picnic at Pomar Junction
+US,88,80.0,California,Napa Valley,Napa,Chardonnay,Signorello
+US,90,18.0,Washington,Yakima Valley,Columbia Valley,Bordeaux-style Red Blend,Airfield Estates
+US,91,34.0,Washington,Walla Walla Valley (WA),Columbia Valley,Red Blend,Reininger
+US,82,48.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Manzoni
+US,88,49.0,California,Sonoma Coast,Sonoma,Pinot Noir,Fort Ross
+US,89,18.0,California,Santa Barbara County,Central Coast,Sauvignon Blanc,Lucas & Lewellen
+US,87,25.0,Oregon,Oregon,Oregon Other,Pinot Noir,Portlandia
+US,88,15.0,California,California,California Other,Zinfandel,3 Ball
+US,94,88.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Fiddlehead
+US,86,15.0,New York,Seneca Lake,Finger Lakes,Chardonnay,Bellangelo
+US,88,30.0,California,Carneros,Napa-Sonoma,Chardonnay,Truchard
+US,93,38.0,California,Russian River Valley,Sonoma,Chardonnay,Gary Farrell
+US,89,25.0,Washington,Yakima Valley,Columbia Valley,Red Blend,Kestrel
+US,89,16.0,Washington,Horse Heaven Hills,Columbia Valley,Rosé,Julia's Dazzle
+US,81,13.0,California,Central Coast,Central Coast,Chardonnay,Acumen
+US,88,44.0,California,Sonoma Coast,Sonoma,Pinot Noir,Roadhouse Winery
+US,92,80.0,California,Napa Valley,Napa,Cabernet Sauvignon,The Grade
+US,88,35.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Hendry
+US,84,30.0,California,Napa Valley,Napa,Merlot,Emmolo
+US,91,45.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Lachini
+US,88,45.0,California,Sonoma Mountain,Sonoma,Cabernet Sauvignon,Ancient Oak Cellars
+US,92,45.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Domaine Drouhin Oregon
+US,88,15.0,California,Sonoma Valley,Sonoma,Zinfandel,Valley of the Moon
+US,90,42.0,California,Napa Valley,Napa,Red Blend,Bennett Lane
+US,91,42.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Foundry Vineyards
+US,92,58.0,California,Napa Valley,Napa,Pinot Noir,Corley
+US,85,13.0,California,North Coast,North Coast,Petite Sirah,Fleur
+US,94,45.0,California,Paso Robles,Central Coast,Red Blend,Oso Libre
+US,86,13.0,Washington,Columbia Valley (WA),Columbia Valley,Sangiovese,Cavatappi
+US,86,15.0,California,Central Coast,Central Coast,Merlot,Hayes Valley
+US,84,18.0,California,Paso Robles,Central Coast,Syrah,Robert Hall
+US,85,20.0,Oregon,Rogue Valley,Southern Oregon,Merlot,Weisinger's of Ashland
+US,90,56.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Sparkman
+US,88,28.0,California,Edna Valley,Central Coast,Chardonnay,Seven Angels
+US,92,20.0,California,Lodi,Central Valley,Red Blend,Freakshow
+US,90,27.0,California,Paso Robles Willow Creek District,Central Coast,Ugni Blanc,Paix Sur Terre
+US,91,60.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Hawkes
+US,91,55.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,L'Ecole No. 41
+US,88,40.0,California,Dry Creek Valley,Sonoma,Malbec,Mounts
+US,92,27.0,Oregon,Willamette Valley,Willamette Valley,Riesling,Love & Squalor
+US,92,25.0,Oregon,Eola-Amity Hills,Willamette Valley,Riesling,Ovum
+US,92,32.0,New York,Seneca Lake,Finger Lakes,Champagne Blend,Hermann J. Wiemer
+US,87,60.0,California,Sonoma Valley,Sonoma,Zinfandel,Ravenswood
+US,85,19.0,Oregon,Oregon,Oregon Other,Chardonnay,Oak Knoll
+US,93,55.0,California,Sonoma Mountain,Sonoma,Bordeaux-style Red Blend,Korbin Kameron
+US,90,50.0,California,Mount Veeder,Napa,Chardonnay,VGS Chateau Potelle
+US,88,75.0,California,Napa Valley,Napa,Cabernet Sauvignon,Altvs
+US,91,35.0,California,Carneros,Napa-Sonoma,Chardonnay,Merryvale
+US,91,28.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Basel Cellars
+US,92,29.0,Oregon,Chehalem Mountains,Willamette Valley,Riesling,Chehalem
+US,94,225.0,California,Oakville,Napa,Cabernet Sauvignon,The Vineyard House
+US,90,42.0,Washington,Horse Heaven Hills,Columbia Valley,Syrah,Mercer
+US,86,8.0,California,California,California Other,Pinot Grigio,Woodbridge by Robert Mondavi
+US,82,15.0,New York,Finger Lakes,Finger Lakes,Pinot Grigio,Mazza Chautauqua Cellars
+US,90,30.0,Washington,Red Mountain,Columbia Valley,Red Blend,Seven Hills
+US,89,17.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Ancient Peaks
+US,88,40.0,California,San Benito County,Central Coast,Gewürztraminer,Williams Selyem
+US,89,30.0,California,Russian River Valley,Sonoma,Pinot Noir,Balverne
+US,90,22.0,California,Napa Valley,Napa,Sparkling Blend,Mumm Napa
+US,89,34.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Melville
+US,92,36.0,Washington,Washington,Washington Other,Chardonnay,Woodward Canyon
+US,86,28.0,New York,Finger Lakes,Finger Lakes,Rosé,240 Days
+US,88,39.0,California,Santa Maria Valley,Central Coast,Chardonnay,La Fenêtre
+US,91,60.0,California,Russian River Valley,Sonoma,Chardonnay,Gary Farrell
+US,86,26.0,California,Napa Valley,Napa,Sauvignon Blanc,Ledson
+US,88,50.0,California,Sonoma County,Sonoma,Red Blend,St. Francis
+US,87,18.0,California,Santa Ynez Valley,Central Coast,Rosé,Zaca Mesa
+US,91,42.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Panther Creek
+US,88,9.0,Washington,Columbia Valley (WA),Columbia Valley,Riesling,Chateau Ste. Michelle
+US,93,45.0,California,Atlas Peak,Napa,Syrah,Aril
+US,91,50.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Spring Valley Vineyard
+US,88,23.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Machine Breaker
+US,90,30.0,California,Dry Creek Valley,Sonoma,Zinfandel,Sbragia
+US,83,25.0,California,California,California Other,Sauvignon Blanc,Putah Creek
+US,87,16.0,New York,Finger Lakes,Finger Lakes,Riesling,Hazlitt 1852 Vineyards
+US,89,52.0,California,Paso Robles,Central Coast,Petite Sirah,MCV
+US,90,75.0,California,Sonoma Coast,Sonoma,Pinot Noir,JCB
+US,88,38.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Graveyard
+US,88,17.0,Oregon,Rogue Valley,Southern Oregon,Grenache,Quady North
+US,90,50.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,L'Ecole No. 41
+US,83,26.0,California,Paso Robles,Central Coast,Zinfandel,Calcareous
+US,91,55.0,Washington,Horse Heaven Hills,Columbia Valley,Merlot,Fidelitas
+US,95,50.0,California,El Dorado,Sierra Foothills,Muscat Canelli,Miraflores
+US,88,20.0,Washington,Yakima Valley,Columbia Valley,White Blend,Brian Carter Cellars
+US,90,45.0,California,Carneros,Napa-Sonoma,Pinot Noir,Carneros Hills
+US,93,80.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,The Eyrie Vineyards
+US,82,10.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Hoodsport
+US,92,45.0,California,Russian River Valley,Sonoma,Pinot Noir,August West
+US,87,28.0,California,Santa Barbara County,Central Coast,Petite Sirah,Santa Barbara Winery
+US,92,50.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Amalie Robert
+US,90,29.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Dunham
+US,92,36.0,California,California,California Other,Syrah,Nelle
+US,91,95.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,William Hill Estate
+US,85,44.0,California,El Pomar District,Central Coast,Cabernet Franc,Midnight
+US,90,18.0,Washington,Columbia Valley (WA),Columbia Valley,Rosé,Upsidedown
+US,91,25.0,California,Sierra Foothills,Sierra Foothills,Red Blend,Lynch Wines
+US,93,85.0,California,Green Valley,Sonoma,Pinot Noir,Iron Horse
+US,85,45.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Longoria
+US,88,41.0,California,Paso Robles,Central Coast,Meritage,Robert Hall
+US,88,29.0,Washington,Wahluke Slope,Columbia Valley,Cabernet Sauvignon,Hard Row To Hoe
+US,88,35.0,California,Livermore Valley,Central Coast,Cabernet Sauvignon,Concannon
+US,91,42.0,Washington,Red Mountain,Columbia Valley,Bordeaux-style Red Blend,Sparkman
+US,90,52.0,California,Napa Valley,Napa,Red Blend,Paraduxx
+US,87,30.0,California,Yorkville Highlands,North Coast,Carmenère,Yorkville Cellars
+US,91,35.0,California,Monterey,Central Coast,Syrah,Boekenoogen
+US,87,22.0,California,Sonoma Valley,Sonoma,Chardonnay,Grove Street
+US,89,30.0,California,Santa Maria Valley,Central Coast,Chardonnay,Kenneth Volk
+US,90,32.0,California,Santa Maria Valley,Central Coast,Roussanne,Holus Bolus
+US,90,50.0,Oregon,Oregon,Oregon Other,Pinot Noir,Iris Vineyards
+US,83,19.0,New York,Long Island,Long Island,Merlot,Channing Daughters
+US,88,42.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Belle Vallée
+US,85,75.0,California,Oakville,Napa,Sangiovese,Swanson
+US,84,19.0,California,California,California Other,Sauvignon Blanc,One Hope
+US,90,40.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,J. Bookwalter
+US,88,22.0,California,California,California Other,Bordeaux-style Red Blend,Cinnabar
+US,85,12.0,Oregon,Oregon,Oregon Other,Pinot Gris,Dundee Springs
+US,92,64.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Tendril
+US,92,75.0,California,Paso Robles,Central Coast,Red Blend,Dubost
+US,93,65.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Arbor Brook
+US,95,60.0,Oregon,Dundee Hills,Willamette Valley,Chardonnay,The Eyrie Vineyards
+US,86,15.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Ross Andrew
+US,90,32.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Big Table Farm
+US,90,19.0,California,Amador County,Sierra Foothills,Sémillon,Andis
+US,86,22.0,California,Arroyo Seco,Central Coast,Pinot Noir,Blair
+US,93,25.0,California,California,California Other,Orange Muscat,Quady
+US,85,15.0,California,Sonoma Valley,Sonoma,Sauvignon Blanc,Kunde
+US,87,45.0,New York,Finger Lakes,Finger Lakes,Bordeaux-style Red Blend,McGregor
+US,96,65.0,California,Santa Barbara County,Central Coast,Chardonnay,D'Alfonso-Curran
+US,87,13.0,California,Oakville,Napa,Sangiovese,Gargiulo
+US,87,48.0,California,Paso Robles,Central Coast,Rhône-style Red Blend,Jada Vineyard & Winery
+US,92,39.0,California,Ben Lomond Mountain,Central Coast,Pinot Noir,Soquel Vineyards
+US,92,41.0,California,Santa Barbara County,Central Coast,Pinot Noir,Ojai
+US,88,50.0,California,Sonoma Valley,Sonoma,Chardonnay,Three Sticks
+US,91,54.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,Pursued by Bear
+US,97,85.0,California,Sonoma Coast,Sonoma,Pinot Noir,Cobb
+US,94,36.0,California,Sonoma Coast,Sonoma,Pinot Noir,Merry Edwards
+US,87,50.0,California,Alexander Valley,Sonoma,Merlot,Medlock Ames
+US,89,18.0,New York,Finger Lakes,Finger Lakes,Riesling,Hermann J. Wiemer
+US,95,75.0,California,Diamond Mountain District,Napa,Cabernet Sauvignon,Girard
+US,89,55.0,New York,Finger Lakes,Finger Lakes,Riesling,Casa Larga
+US,90,22.0,California,Sonoma County,Sonoma,Chardonnay,Pali
+US,87,30.0,New York,Finger Lakes,Finger Lakes,Riesling,Fulkerson
+US,82,8.0,California,California,California Other,Cabernet Merlot,Woodbridge by Robert Mondavi
+US,82,18.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Cascade Ridge
+US,91,40.0,California,Napa Valley,Napa,Cabernet Sauvignon,Turnbull
+US,92,24.0,California,Edna Valley,Central Coast,Chardonnay,Stephen Ross
+US,91,75.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Volker Eisele Family Estate
+US,88,30.0,California,Sonoma Valley,Sonoma,Merlot,Kenwood
+US,91,90.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Domaine Serene
+US,89,24.0,California,Yolo County,Central Valley,Nebbiolo,Rosa d'Oro
+US,89,28.0,Oregon,Umpqua Valley,Southern Oregon,Pinot Noir,Paul O'Brien
+US,92,38.0,Washington,Walla Walla Valley (WA),Columbia Valley,Tempranillo,Saviah
+US,86,15.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Zero One Vintners
+US,85,16.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Chateau Ste. Michelle
+US,87,30.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Carabella
+US,86,25.0,California,Sonoma County,Sonoma,Pinot Noir,Alouette
+US,88,30.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Amalie Robert
+US,83,7.0,New York,North Fork of Long Island,Long Island,Chardonnay,Hargrave
+US,83,12.0,California,California,California Other,Red Blend,Gnarly Head
+US,89,35.0,California,Livermore Valley,Central Coast,Petite Sirah,Occasio
+US,87,18.0,California,Russian River Valley,Sonoma,Gewürztraminer,Balletto
+US,86,15.0,Washington,Yakima Valley,Columbia Valley,Pinot Gris,Mercer
+US,86,22.0,California,Calistoga,Napa,Verdelho,Coquerel Family Wine Estates
+US,96,40.0,California,Sonoma Coast,Sonoma,Pinot Noir,Bjornstad
+US,88,28.0,California,Russian River Valley,Sonoma,Pinot Noir,Willowbrook
+US,86,75.0,California,Oakville,Napa,Cabernet Sauvignon,Swanson
+US,89,25.0,California,Napa Valley,Napa,Cabernet Sauvignon,Napa Cellars
+US,90,39.0,Washington,Washington,Washington Other,Cabernet Sauvignon,Palouse
+US,88,18.0,California,Livermore Valley,Central Coast,Chardonnay,Concannon
+US,93,85.0,California,Stags Leap District,Napa,Cabernet Sauvignon,Pine Ridge
+US,94,100.0,California,Napa Valley,Napa,Cabernet Sauvignon,Dalla Valle
+US,89,34.0,Washington,Columbia Valley (WA),Columbia Valley,Syrah,àMaurice
+US,92,20.0,California,California,California Other,Pinot Noir,Kendall-Jackson
+US,86,33.0,California,Santa Ynez Valley,Central Coast,Nebbiolo,Novy
+US,87,14.0,California,California,California Other,Pinot Noir,Francis Ford Coppola
+US,84,35.0,Oregon,Rogue Valley,Southern Oregon,Claret,Del Rio
+US,87,11.0,California,Lodi,Central Valley,Zinfandel,McManis
+US,87,15.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Vin du Lac
+US,87,19.0,New York,Finger Lakes,Finger Lakes,Sauvignon Blanc,Shaw
+US,87,20.0,Washington,Columbia Valley (WA),Columbia Valley,Albariño,Maryhill
+US,86,12.0,California,Lodi,Central Valley,Merlot,Ironstone
+US,82,29.0,California,Spring Mountain District,Napa,Chardonnay,Keenan
+US,87,18.0,New York,North Fork of Long Island,Long Island,Chardonnay,McCall
+US,87,24.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Dusted Valley
+US,88,15.0,California,Santa Ynez Valley,Central Coast,Sauvignon Blanc,Gainey
+US,92,75.0,California,Central Coast,Central Coast,Syrah,Sanguis
+US,91,36.0,Washington,Columbia Valley (WA),Columbia Valley,Rhône-style Red Blend,Ott & Murphy
+US,85,18.0,California,Lodi,Central Valley,Red Blend,Incognito
+US,91,85.0,California,Rutherford,Napa,Cabernet Sauvignon,Artesa
+US,87,35.0,California,Russian River Valley,Sonoma,Pinot Noir,J Vineyards & Winery
+US,92,21.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Lachini
+US,91,36.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,McIntyre Vineyards
+US,85,24.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Robert Hall
+US,88,22.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Lullaby
+US,91,25.0,California,Napa Valley,Napa,Cabernet Sauvignon,Martin Ray
+US,86,16.0,Oregon,Oregon,Oregon Other,Pinot Noir,Battle Creek
+US,91,85.0,California,Calistoga,Napa,Cabernet Sauvignon,Vermeil
+US,86,32.0,California,Livermore Valley,Central Coast,Cabernet Sauvignon,Entropy Cellars
+US,88,30.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Sineann
+US,85,30.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Holmes Harbor Cellars
+US,88,18.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Arbor Crest
+US,88,18.0,California,California,California Other,Syrah,Terre Rouge
+US,84,29.0,Washington,Columbia Valley (WA),Columbia Valley,Tempranillo,Three Rivers
+US,88,43.0,California,Paso Robles,Central Coast,Rhône-style Red Blend,Le Vigne
+US,92,70.0,California,Happy Canyon of Santa Barbara,Central Coast,Malbec,Rideau
+US,89,45.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Coelho
+US,87,35.0,California,Paso Robles,Central Coast,Roussanne,Tablas Creek
+US,84,23.0,California,Monterey County,Central Coast,Chardonnay,Cru
+US,91,42.0,California,Russian River Valley,Sonoma,Pinot Noir,Marimar Estate
+US,90,25.0,California,Alexander Valley,Sonoma,Syrah,Field Stone
+US,88,38.0,Washington,Red Mountain,Columbia Valley,Merlot,Henry Earl
+US,89,36.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,El Pistolero
+US,90,28.0,California,Russian River Valley,Sonoma,Cabernet Franc,Bailiwick
+US,89,20.0,California,Edna Valley,Central Coast,Grüner Veltliner,Zocker
+US,88,25.0,California,Russian River Valley,Sonoma,Pinot Noir,De Loach
+US,86,20.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Alexander Valley Vineyards
+US,84,11.0,California,California,California Other,Merlot,Little Black Dress
+US,87,24.0,California,Santa Maria Valley,Central Coast,Albariño,Kenneth Volk
+US,94,44.0,California,Sonoma Coast,Sonoma,Pinot Noir,De Loach
+US,86,36.0,California,Paso Robles,Central Coast,Syrah,Venteux
+US,90,60.0,California,Russian River Valley,Sonoma,Pinot Noir,Chasseur
+US,86,30.0,California,Knights Valley,Sonoma,Merlot,Summers
+US,85,17.0,California,Santa Barbara County,Central Coast,Chardonnay,Lucas & Lewellen
+US,87,16.0,California,Central Coast,Central Coast,Zinfandel,Sextant
+US,87,44.0,California,Atlas Peak,Napa,Cabernet Sauvignon,Cobblestone
+US,82,22.0,California,Carneros,Napa-Sonoma,Chardonnay,Jacella
+US,91,45.0,California,Napa Valley,Napa,Zinfandel,Robert Biale
+US,93,60.0,Oregon,Willamette Valley,Willamette Valley,Chardonnay,Ponzi
+US,86,38.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Ross Andrew
+US,92,30.0,California,Spring Mountain District,Napa,Gewürztraminer,Stony Hill
+US,90,32.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Franc,Mosquito Fleet
+US,85,36.0,California,Sonoma County,Sonoma,Syrah,Collier Falls
+US,94,44.0,California,Monterey County,Central Coast,Chardonnay,Big Basin
+US,84,11.0,California,Lodi,Central Valley,Cabernet Sauvignon,Tortoise Creek
+US,85,34.0,California,Russian River Valley,Sonoma,Zinfandel,Portalupi
+US,92,85.0,California,Calistoga,Napa,Cabernet Sauvignon,Ramian
+US,91,65.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,The Eyrie Vineyards
+US,84,40.0,California,Paso Robles,Central Coast,G-S-M,Summerwood
+US,85,22.0,California,Russian River Valley,Sonoma,Chardonnay,Louis M. Martini
+US,92,39.0,Washington,Red Mountain,Columbia Valley,Merlot,Efeste
+US,94,75.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Substance
+US,88,16.0,New York,Finger Lakes,Finger Lakes,Riesling,Atwater
+US,89,31.0,California,Livermore Valley,Central Coast,Rhône-style Red Blend,Fenestra
+US,86,16.0,Washington,Columbia Valley (WA),Columbia Valley,Pinot Gris,Maryhill
+US,86,11.0,California,California,California Other,Petite Sirah,Bogle
+US,86,39.0,Oregon,Umpqua Valley,Southern Oregon,Pinot Noir,Reustle
+US,87,28.0,Washington,Columbia Valley (WA),Columbia Valley,Petit Verdot,Animale
+US,89,18.0,Washington,Yakima Valley,Columbia Valley,Sémillon,Airfield Estates
+US,94,43.0,California,Russian River Valley,Sonoma,Syrah,MacLaren
+US,92,79.0,Washington,Red Mountain,Columbia Valley,Bordeaux-style Red Blend,DeLille
+US,86,25.0,Washington,Columbia Valley (WA),Columbia Valley,Barbera,Wind Rose
+US,94,40.0,Washington,Snipes Mountain,Columbia Valley,Grenache,Latta
+US,92,26.0,California,Napa Valley,Napa,Zinfandel,Madrigal
+US,85,20.0,Oregon,Columbia Valley (OR),Oregon Other,Red Blend,Copper Belt
+US,87,28.0,Washington,Yakima Valley,Columbia Valley,Malbec,Camaraderie
+US,87,13.0,California,Napa County-Lake County,North Coast,Cabernet Sauvignon,Jade Mountain
+US,85,12.0,Washington,Columbia Valley (WA),Columbia Valley,Riesling,Snoqualmie
+US,87,25.0,California,Santa Ynez Valley,Central Coast,Viognier,Ampelos
+US,92,50.0,California,Sta. Rita Hills,Central Coast,Chardonnay,Longoria
+US,82,39.0,California,Arroyo Seco,Central Coast,Pinot Noir,Scott Family
+US,94,210.0,California,Napa Valley,Napa,Cabernet Sauvignon,Stag's Leap Wine Cellars
+US,91,70.0,California,North Coast,North Coast,Cabernet Sauvignon,Keating
+US,87,29.0,Washington,Washington,Washington Other,Red Blend,Veranda Beach
+US,91,50.0,California,Napa Valley,Napa,Cabernet Sauvignon,Hunnicutt
+US,90,80.0,California,Stags Leap District,Napa,Cabernet Sauvignon,Terlato
+US,91,49.0,California,Russian River Valley,Sonoma,Chardonnay,Rochioli
+US,84,24.0,California,Dry Creek Valley,Sonoma,Zinfandel,Mazzocco
+US,94,55.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,K Vintners
+US,94,40.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Syncline
+US,91,38.0,California,Paso Robles,Central Coast,Rosé,Clos Solène
+US,89,23.0,California,Calaveras County,Sierra Foothills,Merlot,Chatom Vineyards
+US,90,22.0,Washington,Columbia Valley (WA),Columbia Valley,Chenin Blanc,Merriman
+US,90,40.0,California,Russian River Valley,Sonoma,Zinfandel,Acorn
+US,91,45.0,California,Napa Valley,Napa,Sauvignon Blanc,Grieve
+US,91,29.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Amavi
+US,86,24.0,California,Carneros,Napa-Sonoma,Chardonnay,Clos du Val
+US,88,27.0,Oregon,Rogue Valley,Southern Oregon,Viognier,Folin Cellars
+US,92,28.0,Oregon,Dundee Hills,Willamette Valley,Riesling,Alexana
+US,88,35.0,California,Napa Valley,Napa,Merlot-Cabernet Franc,Lateral
+US,82,20.0,Washington,Yakima Valley,Columbia Valley,Pinot Gris,Maragas
+US,90,35.0,California,Russian River Valley,Sonoma,Pinotage,Longboard
+US,91,50.0,Oregon,Willamette Valley,Willamette Valley,Sparkling Blend,Argyle
+US,84,48.0,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Vision Cellars
+US,89,48.0,Washington,Columbia Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Sparkman
+US,86,55.0,California,Napa Valley,Napa,Cabernet Sauvignon,Lawer
+US,91,35.0,California,Carneros,Napa-Sonoma,Pinot Noir,Frank Family
+US,87,37.0,California,Lodi,Central Valley,Zinfandel,Klinker Brick
+US,86,10.0,California,California,California Other,Pinot Grigio,Belle Ambiance
+US,92,60.0,California,Sonoma Coast,Sonoma,Pinot Noir,Landmark
+US,91,30.0,Washington,Wahluke Slope,Columbia Valley,Cabernet Sauvignon,Columbia Crest
+US,84,35.0,California,Dry Creek Valley,Sonoma,Zinfandel,V. Sattui
+US,90,75.0,California,Sonoma Coast,Sonoma,Pinot Noir,Keller Estate
+US,86,13.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Zero One Vintners
+US,90,40.0,Washington,Washington,Washington Other,Bordeaux-style Red Blend,Red Sky
+US,88,16.0,California,Santa Ynez Valley,Central Coast,Sauvignon Blanc,Buttonwood
+US,92,35.0,Oregon,Applegate Valley,Southern Oregon,Marsanne-Roussanne,Cowhorn
+US,88,28.0,California,Amador County,Sierra Foothills,Zinfandel,Andis
+US,93,82.0,California,Sonoma Coast,Sonoma,Pinot Noir,Williams Selyem
+US,89,28.0,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,àMaurice
+US,94,135.0,California,Napa Valley,Napa,Cabernet Sauvignon,ZD
+US,93,46.0,California,Happy Canyon of Santa Barbara,Central Coast,Merlot,Barrack
+US,86,25.0,California,Napa Valley,Napa,Cabernet Sauvignon,Oberon
+US,85,10.0,California,California,California Other,Red Blend,Grand Pacific
+US,92,40.0,California,Santa Cruz Mountains,Central Coast,Chardonnay,Ridge
+US,93,45.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Au Bon Climat
+US,87,25.0,California,Napa Valley,Napa,Cabernet Sauvignon,Sterling
+US,83,65.0,California,Temecula Valley,South Coast,Petite Sirah,Fazeli Cellars
+US,87,12.0,New York,Cayuga Lake,Finger Lakes,Riesling,Hosmer
+US,85,14.0,California,Sonoma County,Sonoma,Red Blend,Blue Nomad
+US,87,26.0,California,Central Coast,Central Coast,Pinot Noir,City Winery Chicago
+US,91,44.0,California,Sonoma Coast,Sonoma,Pinot Noir,Gros Ventre
+US,87,16.0,California,California,California Other,Red Blend,LangeTwins
+US,90,58.0,California,Arroyo Grande Valley,Central Coast,Pinot Noir,Talley
+US,94,55.0,California,Santa Barbara County,Central Coast,Syrah,Tensley
+US,90,29.0,California,Santa Cruz Mountains,Central Coast,Cabernet Franc,Cooper-Garrod
+US,87,30.0,Washington,Red Mountain,Columbia Valley,Bordeaux-style Red Blend,Hedges
+US,90,10.0,California,California,California Other,Merlot,Dark Horse
+US,90,44.0,California,Santa Ynez Valley,Central Coast,Syrah,Foxen
+US,87,38.0,California,Sonoma County,Sonoma,Zinfandel,Buena Vista
+US,88,18.0,Oregon,Columbia Gorge (OR),Oregon Other,Gewürztraminer,Brooks
+US,91,36.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Tamarack Cellars
+US,88,60.0,California,Carneros,Napa-Sonoma,Pinot Noir,Robert Mondavi
+US,85,31.0,California,Napa Valley,Napa,Pinot Noir,Markham
+US,92,90.0,California,Carneros,Napa-Sonoma,Pinot Noir,Donum
+US,86,52.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Jordan
+US,94,30.0,Oregon,Dundee Hills,Willamette Valley,Riesling,Harper Voit
+US,90,20.0,Oregon,Elkton Oregon,Southern Oregon,Pinot Noir,River's Edge
+US,85,19.0,California,Russian River Valley,Sonoma,Zinfandel,Novy
+US,93,46.0,California,Russian River Valley,Sonoma,Pinot Noir,Joseph Jewell
+US,88,35.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Sinclair Estate Vineyards
+US,93,75.0,California,Mount Veeder,Napa,Syrah,Château Potelle
+US,94,50.0,California,Napa Valley,Napa,Cabernet Sauvignon,Davies
+US,84,12.0,California,North Coast,North Coast,Red Blend,Novy
+US,86,23.0,California,Sonoma County-Monterey County,California Other,Pinot Noir,Ghost Pines
+US,87,30.0,New York,Finger Lakes,Finger Lakes,Champagne Blend,Glenora
+US,88,20.0,California,Dry Creek Valley,Sonoma,Rosé,Gustafson Family
+US,92,50.0,California,Rutherford,Napa,Cabernet Sauvignon,Round Pond
+US,90,20.0,California,Santa Ynez Valley,Central Coast,Riesling,Gainey
+US,85,32.0,California,Sonoma Coast,Sonoma,Grenache,Burt Street Cellars
+US,90,24.0,Oregon,Ribbon Ridge,Willamette Valley,Grüner Veltliner,Chehalem
+US,87,29.0,California,Russian River Valley,Sonoma,Pinot Noir,Balletto
+US,89,18.0,New York,Finger Lakes,Finger Lakes,Pinot Noir,Thirsty Owl Wine Company
+US,94,56.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Testarossa
+US,87,18.0,California,Shenandoah Valley (CA),Sierra Foothills,Zinfandel,Amador Foothill Winery
+US,84,13.0,California,Dry Creek Valley,Sonoma,Merlot,Sonoma Creek
+US,89,35.0,Washington,Yakima Valley,Columbia Valley,Cabernet Sauvignon,Manu Propria
+US,83,25.0,New York,Finger Lakes,Finger Lakes,Riesling,Wagner
+US,94,55.0,California,San Luis Obispo County,Central Coast,Pinot Noir,Cutruzzola
+US,90,32.0,Washington,Columbia Valley (WA),Columbia Valley,Rhône-style Red Blend,Helix by Reininger
+US,94,56.0,California,Dry Creek Valley,Sonoma,Zinfandel,Ledson
+US,89,13.0,Washington,Yakima Valley,Columbia Valley,Syrah,Lone Birch
+US,91,29.0,California,California,California Other,Tempranillo,Straight Line
+US,87,18.0,California,Russian River Valley,Sonoma,Chardonnay,Castle Rock
+US,88,20.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Gravel Bar
+US,93,50.0,California,Napa Valley,Napa,Cabernet Sauvignon,Volker Eisele Family Estate
+US,91,275.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,BOND
+US,87,20.0,California,San Luis Obispo County,Central Coast,Pinot Noir,Bishop's Peak
+US,82,13.0,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Willamette Valley Vineyards
+US,91,45.0,California,Amador County,Sierra Foothills,Barbera,Portalupi
+US,83,30.0,California,Amador County,Sierra Foothills,Nebbiolo,Domenico
+US,94,165.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Cayuse
+US,93,59.0,California,Sonoma Coast,Sonoma,Pinot Noir,Sojourn
+US,88,28.0,Oregon,Dundee Hills,Willamette Valley,Chardonnay,Stoller
+US,84,35.0,California,Livermore Valley,Central Coast,White Blend,Las Positas
+US,83,19.0,New York,Finger Lakes,Finger Lakes,Cabernet Sauvignon,Keuka Spring
+US,87,20.0,Oregon,Rogue Valley,Southern Oregon,Chardonnay,J. Scott Cellars
+US,86,22.0,California,Napa Valley,Napa,Zinfandel,Michael Pozzan
+US,88,36.0,Washington,Wahluke Slope,Columbia Valley,Red Blend,Columbia Winery
+US,82,16.0,California,California,California Other,Cabernet Sauvignon,Cannonball
+US,93,40.0,California,Santa Barbara County,Central Coast,Syrah,Dragonette
+US,90,32.0,California,Arroyo Seco,Central Coast,Zinfandel,Mesa Del Sol
+US,88,45.0,California,Russian River Valley,Sonoma,Pinot Noir,Lost Canyon
+US,85,17.0,California,Napa Valley,Napa,Zinfandel,Dominican Oaks
+US,92,38.0,California,Livermore Valley,Central Coast,Cabernet Sauvignon,Dante Robere
+US,89,12.0,California,Clarksburg,Central Valley,Chenin Blanc,Dry Creek Vineyard
+US,91,35.0,California,Russian River Valley,Sonoma,Pinot Noir,Mayo
+US,88,20.0,California,Napa Valley,Napa,Moscato,Robert Mondavi
+US,85,28.0,California,Carneros,Napa-Sonoma,Pinot Noir,Gatos Locos
+US,89,15.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,North by Northwest
+US,88,48.0,California,Paso Robles Willow Creek District,Central Coast,Rhône-style Red Blend,Lone Madrone
+US,87,28.0,California,Oak Knoll District,Napa,Viognier,Materra Cunat Family Vineyards
+US,85,25.0,New York,North Fork of Long Island,Long Island,Merlot,Sherwood House Vineyards
+US,92,50.0,Oregon,Willamette Valley,Willamette Valley,Chardonnay,Amalie Robert
+US,85,28.0,Oregon,McMinnville,Willamette Valley,Rosé,Coelho
+US,94,36.0,Washington,Washington,Washington Other,Chardonnay,Abeja
+US,87,29.0,California,Alexander Valley,Sonoma,Sangiovese,DeLorimier
+US,91,30.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Forgeron
+US,87,16.0,California,California,California Other,White Blend,Rosa d'Oro
+US,88,15.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Kamiak
+US,96,75.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Au Bon Climat
+US,89,12.0,California,Lodi,Central Valley,Zinfandel,Gnarly Head
+US,86,19.0,California,Napa Valley,Napa,Sauvignon Blanc,Black Stallion
+US,91,45.0,Washington,Red Mountain,Columbia Valley,Red Blend,JM Cellars
+US,94,56.0,Oregon,Eola-Amity Hills,Willamette Valley,Pinot Noir,Bethel Heights
+US,92,35.0,Oregon,McMinnville,Willamette Valley,Pinot Noir,Hyland
+US,91,40.0,California,Russian River Valley,Sonoma,Chardonnay,Hartford Court
+US,91,25.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Trinity Vineyards
+US,87,37.0,California,Napa Valley,Napa,Chardonnay,Pride Mountain
+US,90,65.0,California,Carneros,Napa-Sonoma,Pinot Noir,Larry Hyde and Sons
+US,87,15.0,California,California,California Other,Pinot Noir,Fetzer
+US,87,38.0,California,Russian River Valley,Sonoma,Pinot Noir,J Vineyards & Winery
+US,88,14.0,California,Sonoma County,Sonoma,Sangiovese,Valley of the Moon
+US,90,85.0,Washington,Red Mountain,Columbia Valley,Syrah,Col Solare
+US,89,14.0,California,California,California Other,Muscat,Red Electra
+US,84,15.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,McGregor
+US,91,34.0,Washington,Columbia Valley (WA),Columbia Valley,Malbec,àMaurice
+US,90,65.0,Washington,Yakima Valley,Columbia Valley,Syrah,Côte Bonneville
+US,83,8.0,California,California,California Other,Cabernet Sauvignon,Redtree
+US,85,12.0,Washington,Yakima Valley,Columbia Valley,Chardonnay,Lone Birch
+US,91,49.0,California,Arroyo Grande Valley,Central Coast,Chardonnay,Testarossa
+US,87,40.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Stoller
+US,86,24.0,California,Fair Play,Sierra Foothills,Grenache Blend,Baiocchi Wines
+US,92,48.0,California,Sonoma Coast,Sonoma,Pinot Noir,Calicaro
+US,87,24.0,Washington,Columbia Valley (WA),Columbia Valley,Zinfandel,Maryhill
+US,88,15.0,New York,Finger Lakes,Finger Lakes,Gewürztraminer-Riesling,Goose Watch
+US,92,44.0,California,Monterey County,Central Coast,Pinot Noir,Big Basin
+US,90,35.0,California,Sonoma Coast,Sonoma,Pinot Noir,Chronicle
+US,88,34.0,Washington,Walla Walla Valley (WA),Columbia Valley,Syrah,Dumas Station
+US,88,39.0,Washington,Walla Walla Valley (WA),Columbia Valley,Cabernet Sauvignon,Mosquito Fleet
+US,83,10.0,California,California,California Other,Pinot Noir,Insatiable
+US,93,60.0,Washington,Walla Walla Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Pepper Bridge
+US,89,60.0,California,Russian River Valley,Sonoma,Pinot Noir,Chalk Hill
+US,82,40.0,California,Sonoma Valley,Sonoma,Sangiovese,Muscardini
+US,94,40.0,California,Russian River Valley,Sonoma,Chardonnay,Lynmar
+US,92,65.0,California,Oakville,Napa,Cabernet Sauvignon,Nickel & Nickel
+US,89,75.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Roco
+US,86,12.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,Drumheller
+US,86,25.0,Washington,Red Mountain,Columbia Valley,Carmenère,Animale
+US,87,30.0,California,Santa Cruz Mountains,Central Coast,Chardonnay,Martin Ray
+US,89,29.0,California,El Dorado,Sierra Foothills,Red Blend,Everhart Cellars
+US,84,10.0,California,Lodi,Central Valley,Pinot Grigio,Peltier
+US,87,65.0,California,Diamond Mountain District,Napa,Cabernet Sauvignon,Wallis Family Estate
+US,89,17.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Hedges Family Estate
+US,90,35.0,California,Santa Barbara County,Central Coast,Red Blend,Silver
+US,94,65.0,California,Santa Ynez Valley,Central Coast,Syrah,Larner
+US,87,21.0,Washington,Yakima Valley,Columbia Valley,Viognier,Stevens
+US,88,25.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Burnt Bridge
+US,92,19.0,New York,Finger Lakes,Finger Lakes,Cabernet Franc,Keuka Spring
+US,92,85.0,California,Oakville,Napa,Cabernet Sauvignon,Vine Cliff
+US,92,43.0,California,Temecula Valley,South Coast,Red Blend,Falkner
+US,92,40.0,California,Napa Valley,Napa,Cabernet Sauvignon,Zahtila
+US,89,20.0,Washington,Columbia Valley (WA),Columbia Valley,Sauvignon Blanc,Januik
+US,84,48.0,Oregon,Columbia Valley (OR),Oregon Other,Syrah,Cathedral Ridge
+US,88,18.0,Washington,Columbia Valley (WA),Columbia Valley,White Blend,Buty
+US,87,40.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Sierra Madre
+US,89,32.0,California,Santa Lucia Highlands,Central Coast,Chardonnay,Pessagno
+US,88,18.0,California,San Francisco Bay,Central Coast,Chardonnay,Foggy Bridge
+US,87,65.0,California,Napa Valley,Napa,Cabernet Sauvignon,Markham
+US,86,45.0,California,Russian River Valley,Sonoma,Red Blend,Acorn
+US,94,35.0,California,Happy Canyon of Santa Barbara,Central Coast,Rhône-style Red Blend,Coquelicot
+US,89,29.0,New York,North Fork of Long Island,Long Island,Champagne Blend,Sparkling Pointe
+US,85,10.0,California,California,California Other,Pinot Grigio,Pepi
+US,82,10.0,California,California,California Other,White Blend,Cline
+US,86,65.0,California,Carneros,Napa-Sonoma,Pinot Noir,ZD
+US,85,17.0,California,Sonoma County,Sonoma,Chardonnay,Kunde
+US,88,85.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Hill Family Estate
+US,90,28.0,Washington,Horse Heaven Hills,Columbia Valley,Cabernet Sauvignon,Chateau Ste. Michelle
+US,92,55.0,California,Russian River Valley,Sonoma,Pinot Noir,Dutton-Goldfield
+US,88,30.0,Washington,Columbia Valley (WA),Columbia Valley,Rhône-style Red Blend,:Nota Bene
+US,89,29.0,Oregon,Umpqua Valley,Southern Oregon,Tempranillo,Abacela
+US,87,10.0,California,California,California Other,Chardonnay,McManis
+US,84,85.0,California,Moon Mountain District Sonoma County,Sonoma,Bordeaux-style Red Blend,Korbin Kameron
+US,92,58.0,California,Edna Valley,Central Coast,Pinot Noir,Talley
+US,90,42.0,California,Sonoma Mountain,Sonoma,Pinot Noir,WillowBrook Cellars
+US,92,45.0,California,Napa Valley,Napa,Cabernet Sauvignon,William Hill Estate
+US,88,22.0,California,Sonoma County,Sonoma,Sparkling Blend,Gloria Ferrer
+US,84,9.0,New York,Long Island,Long Island,Chardonnay,Pindar Vineyards
+US,82,18.0,New York,Finger Lakes,Finger Lakes,Riesling,Hosmer
+US,88,24.0,Washington,Horse Heaven Hills,Columbia Valley,Red Blend,Mercer
+US,91,20.0,Washington,Yakima Valley,Columbia Valley,Garnacha,Idilico
+US,83,12.0,California,California,California Other,Fumé Blanc,Kit Fox
+US,93,55.0,Oregon,Dundee Hills,Willamette Valley,Chardonnay,Domaine Serene
+US,84,28.0,Oregon,Southern Oregon,Southern Oregon,Cabernet Franc,Spangler
+US,84,46.0,California,Napa Valley,Napa,Chardonnay,Cairdean Estate
+US,87,30.0,Oregon,Columbia Valley (OR),Oregon Other,Cabernet Sauvignon,Watermill
+US,88,40.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Adelsheim
+US,89,15.0,Washington,Washington,Washington Other,Red Blend,Disruption
+US,90,30.0,Oregon,Willamette Valley,Willamette Valley,Chardonnay,Willamette Valley Vineyards
+US,90,75.0,California,Paso Robles,Central Coast,Cabernet Sauvignon,Hunt Cellars
+US,88,20.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Nine Hats
+US,92,30.0,California,Dry Creek Valley,Sonoma,Muscat Blanc,Peterson
+US,86,32.0,Oregon,Chehalem Mountains,Willamette Valley,Pinot Noir,Gresser
+US,90,16.0,California,California,California Other,Cabernet Sauvignon,Layer Cake
+US,82,40.0,California,Napa Valley,Napa,Merlot,Trinchero
+US,87,26.0,California,Carmel Valley,Central Coast,Sauvignon Blanc,Joullian
+US,82,25.0,Washington,Columbia Valley (WA),Columbia Valley,Merlot,Cedar River Cellars
+US,94,60.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Shea
+US,93,50.0,California,Paso Robles,Central Coast,Bordeaux-style Red Blend,J. Lohr
+US,87,14.0,California,Central Coast,Central Coast,Syrah,Hahn
+US,87,55.0,California,Sta. Rita Hills,Central Coast,Pinot Noir,Fess Parker
+US,93,35.0,California,Santa Maria Valley,Central Coast,Chardonnay,Fess Parker
+US,93,35.0,Washington,Walla Walla Valley (WA),Columbia Valley,Merlot,Seven Hills
+US,87,38.0,California,Russian River Valley,Sonoma,Pinot Noir,Ketcham Estate
+US,89,75.0,California,Stags Leap District,Napa,Cabernet Sauvignon,Cliff Lede
+US,85,28.0,California,Paso Robles,Central Coast,Zinfandel,Dunning Vineyards
+US,86,25.0,California,Sonoma Coast,Sonoma,Chardonnay,Rodney Strong
+US,86,75.0,California,Napa Valley,Napa,Cabernet Sauvignon,Rubinna
+US,88,30.0,California,El Dorado,Sierra Foothills,Rhône-style Red Blend,Sierra Vista
+US,92,50.0,California,Napa Valley,Napa,Malbec,St. Supéry
+US,88,15.0,California,Monterey,Central Coast,Riesling,Thomas Fogarty
+US,88,50.0,California,Russian River Valley,Sonoma,Zinfandel,Rock Wall
+US,92,60.0,California,Oak Knoll District,Napa,Cabernet Sauvignon,Merryvale
+US,88,50.0,California,Central Coast,Central Coast,G-S-M,Nicora
+US,93,55.0,California,Sonoma Coast,Sonoma,Pinot Noir,Dunstan
+US,88,32.0,California,Arroyo Seco,Central Coast,Sangiovese,Mesa Del Sol
+US,89,18.0,New York,Finger Lakes,Finger Lakes,Sauvignon Blanc,Hazlitt 1852 Vineyards
+US,90,43.0,California,Napa Valley,Napa,Merlot,Grgich Hills
+US,93,75.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Grevino
+US,90,13.0,California,California,California Other,Malbec,HandCraft
+US,89,39.0,California,Paso Robles,Central Coast,Cabernet Franc,Brecon Estate
+US,87,36.0,California,Napa Valley,Napa,Cabernet Sauvignon,Buehler
+US,88,30.0,California,Alexander Valley,Sonoma,Grenache,Hobo
+US,94,78.0,California,Russian River Valley,Sonoma,Pinot Noir,Williams Selyem
+US,86,42.0,California,Russian River Valley,Sonoma,Pinot Noir,Woodenhead
+US,89,19.0,California,Paso Robles,Central Coast,Zinfandel,Peachy Canyon
+US,85,30.0,California,Russian River Valley,Sonoma,Chardonnay,Thomas George
+US,87,35.0,New York,Hudson River Region,New York Other,Chardonnay,Millbrook
+US,88,50.0,New York,North Fork of Long Island,Long Island,Petit Verdot,Sannino
+US,86,35.0,Oregon,Columbia Valley (OR),Oregon Other,Cabernet Sauvignon,Jacob Williams
+US,91,46.0,California,Sierra Foothills,Sierra Foothills,Red Blend,Naggiar
+US,90,35.0,California,Sonoma Coast,Sonoma,Pinot Noir,Landmark
+US,83,28.0,California,Napa Valley,Napa,Sangiovese,Benessere
+US,90,80.0,California,Napa Valley,Napa,Chardonnay,Signorello
+US,91,45.0,California,Paso Robles,Central Coast,Nebbiolo,Giornata
+US,82,32.0,California,Dry Creek Valley,Sonoma,Zinfandel,Mazzocco
+US,90,75.0,California,Carneros,Napa-Sonoma,Merlot,Duckhorn
+US,88,39.0,California,Los Carneros,Napa-Sonoma,Pinot Noir,Gehricke
+US,86,30.0,California,Russian River Valley,Sonoma,Merlot,Merriam
+US,90,36.0,California,Santa Maria Valley,Central Coast,Pinot Noir,Rusack
+US,91,26.0,Oregon,Umpqua Valley,Southern Oregon,Viognier,Abacela
+US,92,55.0,Washington,Horse Heaven Hills,Columbia Valley,Cabernet Sauvignon,Januik
+US,87,12.0,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Sauvignon,14 Hands
+US,88,22.0,California,Sonoma County,Sonoma,Grenache,Stark
+US,90,14.0,New York,Finger Lakes,Finger Lakes,Pinot Noir,Dr. Konstantin Frank
+US,90,22.0,Oregon,Applegate Valley,Southern Oregon,Rhône-style White Blend,Cowhorn
+US,87,35.0,California,Napa Valley,Napa,Cabernet Sauvignon,Rutherford Ranch
+US,87,19.0,California,Amador County,Sierra Foothills,Sangiovese,Vino Noceto
+US,80,13.0,California,Monterey,Central Coast,Merlot,Bocage
+US,90,28.0,Washington,Yakima Valley,Columbia Valley,Mourvèdre,McCrea Cellars
+US,93,90.0,California,Napa Valley,Napa,Cabernet Sauvignon,Sequoia Grove
+US,92,47.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Erath
+US,90,70.0,Oregon,Dundee Hills,Willamette Valley,Pinot Noir,Sokol Blosser
+US,94,45.0,Washington,Columbia Valley (WA),Columbia Valley,Rhône-style Red Blend,Gramercy
+US,88,42.0,California,Paso Robles,Central Coast,Rhône-style Red Blend,Brecon Estate
+US,92,25.0,Washington,Columbia Valley (WA),Columbia Valley,Roussanne,Lauren Ashton Cellars
+US,86,14.0,California,Lodi,Central Valley,Cabernet Sauvignon,Five Rows
+US,93,46.0,California,Santa Barbara County,Central Coast,Syrah,Barbieri
+US,87,17.0,Oregon,Oregon,Oregon Other,Pinot Noir,Rainstorm
+US,88,23.0,California,Russian River Valley,Sonoma,Zinfandel,De Loach
+US,82,15.0,California,California,California Other,Pinot Grigio,Seven Daughters
+US,91,54.0,California,Russian River Valley,Sonoma,Pinot Noir,En Garde
+US,90,180.0,California,Napa Valley,Napa,Bordeaux-style Red Blend,Jarvis
+US,84,25.0,California,Napa Valley,Napa,Merlot,Clos Pegase
+US,90,27.0,California,Russian River Valley,Sonoma,Chardonnay,La Crema
+US,85,42.0,Washington,Horse Heaven Hills,Columbia Valley,Nebbiolo,Stottle
+US,91,36.0,California,Paso Robles,Central Coast,Grenache,Le Vigne
+US,85,22.0,California,Sierra Foothills,Sierra Foothills,Red Blend,Naggiar
+US,94,65.0,California,Sonoma Coast,Sonoma,Chardonnay,Hartford Court

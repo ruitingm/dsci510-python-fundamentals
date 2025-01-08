@@ -1,0 +1,101 @@
+country,points,price,province,region_1,region_2,variety,winery
+Chile,87,14.0,Casablanca Valley,,,Sauvignon Blanc,Viña Maipo
+Canada,90,35.0,British Columbia,Okanagan Valley,,Syrah,Church & State
+France,91,18.0,Southwest France,Saint-Mont,,Red Blend,Producteurs Plaimont
+US,85,34.0,California,Napa Valley,Napa,Sangiovese,Falcor
+US,90,42.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Sineann
+Portugal,91,15.0,Alentejano,,,Portuguese Red,Perescuma
+Italy,88,24.0,Piedmont,Nebbiolo d'Alba,,Nebbiolo,Damilano
+Portugal,89,15.0,Lisboa,,,Portuguese White,Quinta do Casal Monteiro
+US,87,19.0,California,Alexander Valley,Sonoma,Merlot,Souverain
+Spain,83,34.0,Northern Spain,Rioja,,Tempranillo Blanco,Juan Carlos Sancha
+Italy,91,25.0,Tuscany,Toscana,,Red Blend,Ruffino
+US,87,17.0,New York,Finger Lakes,Finger Lakes,Gewürztraminer,Silver Thread
+Australia,87,18.0,Victoria,Nagambie Lakes,,Marsanne,Tahbilk
+Argentina,83,20.0,Other,Neuquén,,Merlot,Familia Schroeder
+France,92,,Burgundy,Chablis,,Chardonnay,Domaine Pascal Bouchard
+US,86,45.0,California,Arroyo Seco,Central Coast,Rhône-style White Blend,Bonny Doon
+France,91,40.0,Provence,Côtes de Provence,,Rosé,Château Léoube
+US,87,40.0,California,Carneros,Napa-Sonoma,Chardonnay,Acacia
+France,84,15.0,Bordeaux,Haut-Médoc,,Bordeaux-style Red Blend,Château Fonsèche
+France,84,30.0,Bordeaux,Pessac-Léognan,,Bordeaux-style Red Blend,Château Haut Lagrange
+US,95,125.0,California,Napa Valley,Napa,Cabernet Sauvignon,D.R. Stephens
+US,87,35.0,California,Carneros,Napa-Sonoma,Pinot Noir,Frank Family
+South Africa,87,13.0,Coastal Region,,,Rosé,Mulderbosch
+US,95,35.0,California,Russian River Valley,Sonoma,Chardonnay,Gary Farrell
+Italy,85,19.0,Central Italy,Rosso Piceno Superiore,,Red Blend,De Angelis
+France,86,19.0,Loire Valley,Pouilly-Fumé,,Sauvignon Blanc,Pascal Jolivet
+France,89,21.0,Alsace,Alsace,,Pinot Gris,Dopff & Irion
+Italy,90,38.0,Northeastern Italy,Alto Adige,,Gewürztraminer,Colterenzio
+Spain,82,10.0,Catalonia,Cava,,Sparkling Blend,Jaume Serra
+US,93,75.0,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Stonestreet
+US,92,30.0,California,El Dorado,Sierra Foothills,Viognier,Baiocchi Wines
+Argentina,80,12.0,Mendoza Province,Mendoza,,Pinot Grigio,Bodega Cuarto Dominio
+US,88,18.0,California,California,California Other,Syrah,Terre Rouge
+US,82,21.0,Oregon,Rogue Valley,Southern Oregon,Marsanne-Roussanne,Agate Ridge
+France,84,23.0,Burgundy,Saint-Véran,,Chardonnay,Domaine Carrette
+Austria,95,,Wachau,,,Riesling,F X Pichler
+US,89,42.0,Washington,Wahluke Slope,Columbia Valley,Syrah,Milbrandt
+US,91,50.0,Washington,Columbia Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Tamarack Cellars
+US,83,22.0,New York,Hudson River Region,New York Other,Red Blend,Hudson-Chatham
+France,91,33.0,Southwest France,Cahors,,Malbec,Château du Cèdre
+Italy,88,50.0,Central Italy,Montefalco Sagrantino,,Sagrantino,Di Filippo
+US,90,30.0,Washington,Horse Heaven Hills,Columbia Valley,Sangiovese,Almquist
+US,84,30.0,Washington,Columbia Valley (WA),Columbia Valley,Red Blend,Northwest Totem Cellars
+US,88,37.0,Washington,Red Mountain,Columbia Valley,Bordeaux-style Red Blend,Tapteil Vineyard
+US,87,21.0,California,Sonoma County,Sonoma,Pinot Noir,Parkers Estate
+France,86,9.0,Loire Valley,Touraine,,Sauvignon Blanc,Paris-Simoneau
+France,88,83.0,Burgundy,Nuits-St.-Georges,,Pinot Noir,L. Tramier & Fils
+US,89,24.0,California,Carneros,Napa-Sonoma,Sparkling Blend,Gloria Ferrer
+US,95,64.0,California,Santa Cruz Mountains,Central Coast,Chardonnay,Mount Eden Vineyards
+Italy,90,,Southern Italy,Taurasi,,Aglianico,Vesevo
+Greece,90,55.0,Pangeon,,,Red Blend,Estate Biblia Chora
+US,89,32.0,Washington,Walla Walla Valley (WA),Columbia Valley,Merlot,Dumas Station
+US,88,30.0,Washington,Columbia Valley (WA),Columbia Valley,Rhône-style Red Blend,:Nota Bene
+Italy,90,17.0,Northeastern Italy,Alto Adige,,Pinot Bianco,Erste Neue
+Italy,87,20.0,Piedmont,Barbera d'Asti,,Barbera,Pico Maccario
+US,84,39.0,California,Napa Valley,Napa,Cabernet Sauvignon,Frog's Leap
+Italy,81,53.0,Tuscany,Toscana,,Rosato,Tenuta del Buonamico
+Spain,87,11.0,Levante,Utiel-Requena,,Bobal,Dominio de la Vega
+US,84,35.0,California,Napa Valley,Napa,Cabernet Sauvignon,Laely
+US,90,40.0,California,Napa Valley,Napa,Chardonnay,Levendi
+US,82,7.0,California,Lodi,Central Valley,Zinfandel,Barefoot
+Italy,89,50.0,Piedmont,Alta Langa,,Sparkling Blend,Cocchi
+US,82,17.0,California,Sonoma County,Sonoma,Chardonnay,Shiloh Road
+US,87,22.0,California,Santa Ynez Valley,Central Coast,Sauvignon Blanc,Alta Maria
+US,86,25.0,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Lachini
+US,93,55.0,California,Templeton Gap District,Central Coast,Syrah,Austin Hope
+US,89,20.0,California,San Antonio Valley,Central Coast,Tempranillo,Quinta Cruz
+France,92,31.0,Loire Valley,Sancerre,,Sauvignon Blanc,Jean-Paul Picard
+Portugal,87,20.0,Península de Setúbal,,,Portuguese Red,Herdade da Comporta
+US,87,18.0,Oregon,Umpqua Valley,Southern Oregon,Chardonnay,Melrose
+France,90,,Loire Valley,Chinon,,Cabernet Franc,Domaine des Béguineries
+France,88,,Alsace,Alsace,,Gewürztraminer,Henri Schoenheitz
+Argentina,89,30.0,Mendoza Province,Mendoza,,Malbec-Cabernet Sauvignon,Achaval-Ferrer
+US,92,75.0,California,Carneros,Napa-Sonoma,Pinot Noir,Etude
+Italy,89,,Piedmont,Roero,,Nebbiolo,Careglio
+US,89,25.0,California,Santa Barbara County,Central Coast,Chardonnay,Consilience
+Australia,89,75.0,South Australia,Clarendon,,Grenache,Clarendon Hills
+Italy,88,12.0,Northeastern Italy,Vigneti delle Dolomiti,,Red Blend,Alta Luna
+Italy,89,57.0,Piedmont,Barolo,,Nebbiolo,Barale Fratelli
+US,86,42.0,California,Rockpile,Sonoma,Malbec,Keating
+France,87,,Burgundy,Marsannay,,Chardonnay,Domaine Bruno Clair
+US,90,39.0,California,Sonoma Coast,Sonoma,Pinot Noir,Bougetz
+Austria,96,40.0,Wachau,,,Grüner Veltliner,Emmerich Knoll
+US,90,36.0,California,Calaveras County,Sierra Foothills,Syrah-Viognier,Prospect 772
+US,89,30.0,Washington,Columbia Valley (WA),Columbia Valley,Zinfandel,Forgeron
+US,88,35.0,California,Napa Valley,Napa,Cabernet Sauvignon,Emblem
+US,92,44.0,California,Santa Ynez Valley,Central Coast,Syrah,Foxen
+US,85,28.0,Virginia,Virginia,,Vidal,Gray Ghost
+US,89,40.0,California,Santa Cruz Mountains,Central Coast,Pinot Noir,Sonnet
+Italy,85,15.0,Tuscany,Chianti Classico,,Red Blend,Cantine Bellini
+Italy,93,49.0,Piedmont,Barolo,,Nebbiolo,Mauro Veglio
+Portugal,87,,Lisboa,,,Arinto,Companhia das Quintas
+US,88,125.0,Washington,Red Mountain,Columbia Valley,Cabernet Sauvignon,Obelisco Estate
+Chile,84,15.0,Cachapoal Valley,,,Syrah,Château Los Boldos
+Portugal,90,20.0,Alentejano,,,Touriga Nacional,Terras de Alter
+US,83,28.0,California,Paso Robles,Central Coast,Zinfandel,Graveyard
+Italy,85,14.0,Veneto,Veneto,,Manzoni,Bonotto delle Tezze
+Portugal,91,13.0,Beiras,,,Touriga Nacional-Cabernet Sauvignon,Aveleda
+Germany,90,18.0,Mosel,,,Riesling,Dr. Heidemanns-Bergweiler
+US,90,24.0,California,California,California Other,White Blend,La Pleïade II

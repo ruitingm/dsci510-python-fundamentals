@@ -1,0 +1,2 @@
+numpypandasseabornmatplotlibscipyrequestsopendatasets==0.0.105
+statsmodels
